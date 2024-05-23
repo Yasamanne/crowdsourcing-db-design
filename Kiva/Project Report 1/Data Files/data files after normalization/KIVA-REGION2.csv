@@ -1,0 +1,893 @@
+ISO,country,region,geo,lat,lon,world_region,MPI
+AFG,Afghanistan,Badakhshan,"(36.7347725, 70.81199529999999)",36.7347725,70.8119953,South Asia,0.387
+AFG,Afghanistan,Badghis,"(35.1671339, 63.7695384)",35.1671339,63.7695384,South Asia,0.466
+AFG,Afghanistan,Baghlan,"(35.8042947, 69.2877535)",35.8042947,69.2877535,South Asia,0.3
+AFG,Afghanistan,Balkh,"(36.7550603, 66.8975372)",36.7550603,66.8975372,South Asia,0.301
+AFG,Afghanistan,Bamyan,"(34.8100067, 67.8212104)",34.8100067,67.8212104,South Asia,0.325
+AFG,Afghanistan,Daykundi,"(33.669495, 66.0463534)",33.669495,66.0463534,South Asia,0.313
+AFG,Afghanistan,Farah,"(32.4464635, 62.1454133)",32.4464635,62.1454133,South Asia,0.319
+AFG,Afghanistan,Faryab,"(36.0795613, 64.90595499999999)",36.0795613,64.905955,South Asia,0.25
+AFG,Afghanistan,Ghazni,"(33.5450587, 68.4173972)",33.5450587,68.4173972,South Asia,0.245
+AFG,Afghanistan,Ghor,"(34.0995776, 64.90595499999999)",34.0995776,64.905955,South Asia,0.384
+AFG,Afghanistan,Helmand,"(31.3636474, 63.95861110000001)",31.3636474,63.9586111,South Asia,0.261
+AFG,Afghanistan,Herat,"(11.6155109, 104.3791912)",11.6155109,104.3791912,South Asia,0.353
+AFG,Afghanistan,Jawzjan,"(36.8969692, 65.6658568)",36.8969692,65.6658568,South Asia,0.293
+AFG,Afghanistan,Kabul,"(34.5553494, 69.207486)",34.5553494,69.207486,South Asia,0.117
+AFG,Afghanistan,Kandahar,"(31.628871, 65.7371749)",31.628871,65.7371749,South Asia,0.437
+AFG,Afghanistan,Kapisa,"(34.9810572, 69.6214562)",34.9810572,69.6214562,South Asia,0.28
+AFG,Afghanistan,Khost,"(33.3338472, 69.9371673)",33.3338472,69.9371673,South Asia,0.296
+AFG,Afghanistan,Kunarha,"(34.8465893, 71.097317)",34.8465893,71.097317,South Asia,0.269
+AFG,Afghanistan,Kunduz,"(36.7285907, 68.8680663)",36.7285907,68.8680663,South Asia,0.294
+AFG,Afghanistan,Laghman,"(34.6897687, 70.1455805)",34.6897687,70.1455805,South Asia,0.369
+AFG,Afghanistan,Logar,"(34.0145518, 69.1923916)",34.0145518,69.1923916,South Asia,0.187
+AFG,Afghanistan,Nangarhar,"(34.1718313, 70.6216794)",34.1718313,70.6216794,South Asia,0.287
+AFG,Afghanistan,Nimroz,"(31.0261488, 62.4504154)",31.0261488,62.4504154,South Asia,0.231
+AFG,Afghanistan,Nooristan,"(35.3250223, 70.90712359999999)",35.3250223,70.9071236,South Asia,0.611
+AFG,Afghanistan,Paktika,"(32.2645386, 68.52471489999999)",32.2645386,68.5247149,South Asia,0.137
+AFG,Afghanistan,Paktya,"(33.706199, 69.3831079)",33.706199,69.3831079,South Asia,0.218
+AFG,Afghanistan,Panjsher,"(35.5025772, 69.9550338)",35.5025772,69.9550338,South Asia,0.12
+AFG,Afghanistan,Parwan,"(34.9630977, 68.81088489999999)",34.9630977,68.8108849,South Asia,0.294
+AFG,Afghanistan,Samangan,"(35.9807296, 67.57085359999999)",35.9807296,67.5708536,South Asia,0.35
+AFG,Afghanistan,Sar-E-Pul,"(35.6707473, 66.0463534)",35.6707473,66.0463534,South Asia,0.341
+AFG,Afghanistan,Takhar,"(36.6698013, 69.4784541)",36.6698013,69.4784541,South Asia,0.361
+AFG,Afghanistan,Urozgan,"(32.9271287, 66.1415263)",32.9271287,66.1415263,South Asia,0.624
+AFG,Afghanistan,Wardak,"(34.3513494, 68.2385339)",34.3513494,68.2385339,South Asia,0.34
+AFG,Afghanistan,Zabul,"(32.1918782, 67.1894488)",32.1918782,67.1894488,South Asia,0.175
+BDI,Burundi,Bujumbura Mairie,"(-3.4146958, 29.3598782)",-3.4146958,29.3598782,Sub-Saharan Africa,0.164
+BDI,Burundi,Nord,"(-3.373056, 29.918886)",-3.373056,29.918886,Sub-Saharan Africa,0.501
+BDI,Burundi,Centre-Est,"(9.0630743, 7.464915)",9.0630743,7.464915,Sub-Saharan Africa,0.473
+BDI,Burundi,Ouest,"(-3.373056, 29.918886)",-3.373056,29.918886,Sub-Saharan Africa,0.499
+BDI,Burundi,Sud,"(14.6090537, 121.0222565)",14.6090537,121.0222565,Sub-Saharan Africa,0.422
+BEN,Benin,Alibori,"(10.9681093, 2.7779813)",10.9681093,2.7779813,Sub-Saharan Africa,0.528
+BEN,Benin,Atacora,"(10.7954931, 1.6760691)",10.7954931,1.6760691,Sub-Saharan Africa,0.454
+BEN,Benin,Atlantique,"(6.6588391, 2.2236667)",6.6588391,2.2236667,Sub-Saharan Africa,0.278
+BEN,Benin,Borgou,"(9.5340864, 2.7779813)",9.5340864,2.7779813,Sub-Saharan Africa,0.351
+BEN,Benin,Collines,"(13.718252, -2.302446)",13.718252,-2.302446,Sub-Saharan Africa,0.292
+BEN,Benin,Couffo,"(7.003589400000001, 1.7538817)",7.0035894,1.7538817,Sub-Saharan Africa,0.345
+BEN,Benin,Donga,"(9.7191867, 1.6760691)",9.7191867,1.6760691,Sub-Saharan Africa,0.335
+BEN,Benin,Littoral,"(6.3806973, 2.4406387)",6.3806973,2.4406387,Sub-Saharan Africa,0.083
+BEN,Benin,Mono,"(6.6607182, 1.7538817)",6.6607182,1.7538817,Sub-Saharan Africa,0.259
+BEN,Benin,Plateau,"(7.3445141, 2.539603)",7.3445141,2.539603,Sub-Saharan Africa,0.347
+BEN,Benin,Zou,"(7.346926799999999, 2.0665197)",7.3469268,2.0665197,Sub-Saharan Africa,0.334
+BFA,Burkina Faso,Boucle de mouhoun,"(8.8556838, 7.179025999999999)",8.8556838,7.179026,Sub-Saharan Africa,0.591
+BFA,Burkina Faso,Cascades,"(10.4072992, -4.5624426)",10.4072992,-4.5624426,Sub-Saharan Africa,0.493
+BFA,Burkina Faso,Centre,"(12.3425897, -1.443469)",12.3425897,-1.443469,Sub-Saharan Africa,0.207
+BFA,Burkina Faso,Centre-est,"(11.5247674, -0.1494988)",11.5247674,-0.1494988,Sub-Saharan Africa,0.58
+BFA,Burkina Faso,Centre-nord,"(13.1724464, -0.9056623)",13.1724464,-0.9056623,Sub-Saharan Africa,0.575
+BFA,Burkina Faso,Centre-ouest,"(11.8798466, -2.302446)",11.8798466,-2.302446,Sub-Saharan Africa,0.554
+BFA,Burkina Faso,Centre-sud,"(11.5228911, -1.0586135)",11.5228911,-1.0586135,Sub-Saharan Africa,0.513
+BFA,Burkina Faso,Est,"(12.4365526, 0.9056623)",12.4365526,0.9056623,Sub-Saharan Africa,0.698
+BFA,Burkina Faso,Hauts basins,"(11.4942003, -4.2333355)",11.4942003,-4.2333355,Sub-Saharan Africa,0.459
+BFA,Burkina Faso,Plateau central,"(12.2537648, -0.7532808999999999)",12.2537648,-0.7532809,Sub-Saharan Africa,0.524
+BFA,Burkina Faso,Sahel,"(14.1000865, -0.1494988)",14.1000865,-0.1494988,Sub-Saharan Africa,0.69
+BFA,Burkina Faso,Sud-ouest,"(10.4231493, -3.2583626)",10.4231493,-3.2583626,Sub-Saharan Africa,0.655
+BGD,Bangladesh,Barisal,"(22.7029212, 90.3465971)",22.7029212,90.3465971,South Asia,0.224
+BGD,Bangladesh,Chittagong,"(22.3475365, 91.8123324)",22.3475365,91.8123324,South Asia,0.186
+BGD,Bangladesh,Dhaka,"(23.810332, 90.4125181)",23.810332,90.4125181,South Asia,0.174
+BGD,Bangladesh,Khulna,"(22.845641, 89.5403279)",22.845641,89.5403279,South Asia,0.156
+BGD,Bangladesh,Rajshahi,"(24.3635886, 88.62413509999999)",24.3635886,88.6241351,South Asia,0.192
+BGD,Bangladesh,Rangpur,"(25.7438916, 89.275227)",25.7438916,89.275227,South Asia,0.206
+BGD,Bangladesh,Sylhet,"(24.904539, 91.8611011)",24.904539,91.8611011,South Asia,0.32
+BLZ,Belize,Corozal,"(18.4030802, -88.3967536)",18.4030802,-88.3967536,Latin America and Caribbean,0.026
+BLZ,Belize,Orange Walk,"(18.0842472, -88.5710266)",18.0842472,-88.5710266,Latin America and Caribbean,0.019
+BLZ,Belize,Belize (excluding Belize City South Side),"(30.7326622, 31.7195459)",30.7326622,31.7195459,Latin America and Caribbean,0.005
+BLZ,Belize,Stann Creek,"(16.8116631, -88.4016041)",16.8116631,-88.4016041,Latin America and Caribbean,0.013
+BLZ,Belize,Toledo,"(16.2491923, -88.86469799999999)",16.2491923,-88.864698,Latin America and Caribbean,0.019
+BLZ,Belize,Cayo,"(17.0984445, -88.94138650000001)",17.0984445,-88.9413865,Latin America and Caribbean,0.054
+BLZ,Belize,Belize City South Side,"(17.4891317, -88.188656)",17.4891317,-88.188656,Latin America and Caribbean,0.005
+BOL,"Bolivia, Plurinational State of",Chuquisaca,"(-20.0249144, -64.1478236)",-20.0249144,-64.1478236,Latin America and Caribbean,0.145
+BOL,"Bolivia, Plurinational State of",La Paz,"(-16.489689, -68.11929359999999)",-16.489689,-68.1192936,Latin America and Caribbean,0.077
+BOL,"Bolivia, Plurinational State of",Cochabamba,"(-17.4139766, -66.1653224)",-17.4139766,-66.1653224,Latin America and Caribbean,0.105
+BOL,"Bolivia, Plurinational State of",Oruro,"(26.9373041, 90.4879916)",26.9373041,90.4879916,Latin America and Caribbean,0.073
+BOL,"Bolivia, Plurinational State of",Tarija,"(-21.5213825, -64.7280952)",-21.5213825,-64.7280952,Latin America and Caribbean,0.081
+BOL,"Bolivia, Plurinational State of",Santa Cruz,"(-17.8145819, -63.1560853)",-17.8145819,-63.1560853,Latin America and Caribbean,0.043
+BOL,"Bolivia, Plurinational State of",Beni,"(-14.3782747, -65.0957792)",-14.3782747,-65.0957792,Latin America and Caribbean,0.099
+BOL,"Bolivia, Plurinational State of",Pando,"(-10.7988901, -66.9988011)",-10.7988901,-66.9988011,Latin America and Caribbean,0.087
+BRA,Brazil,Acre,"(-9.0237964, -70.81199529999999)",-9.0237964,-70.8119953,Latin America and Caribbean,0.072
+BRA,Brazil,Alagoas,"(-9.5713058, -36.7819505)",-9.5713058,-36.7819505,Latin America and Caribbean,0.042
+BRA,Brazil,Amazonas,"(-3.4168427, -65.8560646)",-3.4168427,-65.8560646,Latin America and Caribbean,0.044
+BRA,Brazil,Bahia,"(-12.579738, -41.7007272)",-12.579738,-41.7007272,Latin America and Caribbean,0.029
+BRA,Brazil,Cearð,"(-21.3223397, -46.36941789999999)",-21.3223397,-46.3694179,Latin America and Caribbean,0.029
+BRA,Brazil,Distrito Federal,"(-15.7997654, -47.8644715)",-15.7997654,-47.8644715,Latin America and Caribbean,0.008
+BRA,Brazil,Maranhðo,"(-8.722408399999999, 125.5712576)",-8.7224084,125.5712576,Latin America and Caribbean,0.046
+BRA,Brazil,Mato Grosso,"(-12.6818712, -56.921099)",-12.6818712,-56.921099,Latin America and Caribbean,0.019
+BRA,Brazil,Mato Grosso do Sul,"(-20.7722295, -54.7851531)",-20.7722295,-54.7851531,Latin America and Caribbean,0.019
+BRA,Brazil,Minas Gerais,"(-18.512178, -44.5550308)",-18.512178,-44.5550308,Latin America and Caribbean,0.021
+BRA,Brazil,Pernambuco,"(-8.8137173, -36.954107)",-8.8137173,-36.954107,Latin America and Caribbean,0.027
+BRA,Brazil,Rio Grande do Norte,"(-5.402580299999999, -36.954107)",-5.4025803,-36.954107,Latin America and Caribbean,0.03
+BRA,Brazil,Rio Grande do Sul,"(-30.0346316, -51.2176986)",-30.0346316,-51.2176986,Latin America and Caribbean,0.012
+BRA,Brazil,Rio de Janeiro,"(-22.9068467, -43.1728965)",-22.9068467,-43.1728965,Latin America and Caribbean,0.011
+BRA,Brazil,Rondðnia,"(-17.8251657, 31.03351)",-17.8251657,31.03351,Latin America and Caribbean,0.024
+BRA,Brazil,Roraima,"(2.7375971, -62.0750998)",2.7375971,-62.0750998,Latin America and Caribbean,0.029
+BRA,Brazil,Santa Catarina,"(-27.2423392, -50.2188556)",-27.2423392,-50.2188556,Latin America and Caribbean,0.019
+BRA,Brazil,Sergipe,"(-10.5740934, -37.3856581)",-10.5740934,-37.3856581,Latin America and Caribbean,0.034
+BRA,Brazil,Sðo Paulo,"(-23.5671844, -46.7387185)",-23.5671844,-46.7387185,Latin America and Caribbean,0.012
+BRA,Brazil,Tocantins,"(-10.17528, -48.2982474)",-10.17528,-48.2982474,Latin America and Caribbean,0.03
+BTN,Bhutan,Bumthang,"(27.641839, 90.6773046)",27.641839,90.6773046,South Asia,0.042
+BTN,Bhutan,Chukha,"(27.0784304, 89.4742177)",27.0784304,89.4742177,South Asia,0.121
+BTN,Bhutan,Dagana,"(27.0322861, 89.8879304)",27.0322861,89.8879304,South Asia,0.222
+BTN,Bhutan,Haa,"(27.2651669, 89.1705998)",27.2651669,89.1705998,South Asia,0.059
+BTN,Bhutan,Lhuntse,"(27.8264989, 91.13530200000001)",27.8264989,91.135302,South Asia,0.151
+BTN,Bhutan,Mongar,"(27.2617059, 91.28910359999999)",27.2617059,91.2891036,South Asia,0.165
+BTN,Bhutan,Paro,"(27.428684, 89.41636539999999)",27.428684,89.4163654,South Asia,0.026
+BTN,Bhutan,Pemagatshel,"(27.98785, 86.9250261)",27.98785,86.9250261,South Asia,0.128
+BTN,Bhutan,Punakha,"(27.5920869, 89.87974589999999)",27.5920869,89.8797459,South Asia,0.088
+BTN,Bhutan,Samdrup Jongkhar,"(26.8035682, 91.5039207)",26.8035682,91.5039207,South Asia,0.149
+BTN,Bhutan,Samtse,"(27.0291832, 89.0561532)",27.0291832,89.0561532,South Asia,0.197
+BTN,Bhutan,Sarpang,"(-2.5546618, 29.6035495)",-2.5546618,29.6035495,South Asia,0.102
+BTN,Bhutan,Thimphu,"(27.4727924, 89.6392863)",27.4727924,89.6392863,South Asia,0.016
+BTN,Bhutan,Trashigang,"(27.3325014, 91.55234349999999)",27.3325014,91.5523435,South Asia,0.132
+BTN,Bhutan,Trashiyangtse,"(-20.3446313, 44.7006138)",-20.3446313,44.7006138,South Asia,0.121
+BTN,Bhutan,Trongsa,"(27.5002269, 90.5080634)",27.5002269,90.5080634,South Asia,0.148
+BTN,Bhutan,Tsirang,"(27.032207, 90.1869644)",27.032207,90.1869644,South Asia,0.196
+BTN,Bhutan,Wangdi,"(27.4879018, 89.8996196)",27.4879018,89.8996196,South Asia,0.099
+BTN,Bhutan,Zhemgang,"(27.076975, 90.8294002)",27.076975,90.8294002,South Asia,0.184
+CAF,Central African Republic,Ombella-M'poko,"(5.1188825, 18.4276047)",5.1188825,18.4276047,Sub-Saharan Africa,0.403
+CAF,Central African Republic,Lobaye,"(4.3525981, 17.4795173)",4.3525981,17.4795173,Sub-Saharan Africa,0.494
+CAF,Central African Republic,Mambðrð-Kadði,"(8.154077, 123.258793)",8.154077,123.258793,Sub-Saharan Africa,0.497
+CAF,Central African Republic,Sangha-Mbaðrð,"(15.341806, -84.6060449)",15.341806,-84.6060449,Sub-Saharan Africa,0.505
+CAF,Central African Republic,Ouham,"(7.090910999999999, 17.668887)",7.090911,17.668887,Sub-Saharan Africa,0.533
+CAF,Central African Republic,Ouaka,"(6.3168216, 20.7122465)",6.3168216,20.7122465,Sub-Saharan Africa,0.471
+CAF,Central African Republic,Haute-Kotto,"(7.7964379, 23.3823545)",7.7964379,23.3823545,Sub-Saharan Africa,0.42
+CAF,Central African Republic,Bamingui-Bangoran,"(8.2733455, 20.7122465)",8.2733455,20.7122465,Sub-Saharan Africa,0.364
+CAF,Central African Republic,Basse-Kotto,"(4.8719319, 21.2845025)",4.8719319,21.2845025,Sub-Saharan Africa,0.544
+CAF,Central African Republic,Mbomou,"(5.356142699999999, -3.9666402)",5.3561427,-3.9666402,Sub-Saharan Africa,0.491
+CAF,Central African Republic,Haut-Mbomou,"(6.2537134, 25.4733554)",6.2537134,25.4733554,Sub-Saharan Africa,0.418
+CAF,Central African Republic,Bangui,"(4.3946735, 18.5581899)",4.3946735,18.5581899,Sub-Saharan Africa,0.197
+CHN,China,East,"(42.4708101, -92.35780319999999)",42.4708101,-92.3578032,East Asia and the Pacific,0.008
+CHN,China,Central,"(29.70534, -95.5483893)",29.70534,-95.5483893,East Asia and the Pacific,0.013
+CHN,China,West,"(35.86166, 104.195397)",35.86166,104.195397,East Asia and the Pacific,0.034
+CIV,Cote d'Ivoire,Centre,"(-8.6529334, 117.3616476)",-8.6529334,117.3616476,Sub-Saharan Africa,0.359
+CIV,Cote d'Ivoire,Centre-Nord,"(13.4540922, -16.6733441)",13.4540922,-16.6733441,Sub-Saharan Africa,0.322
+CIV,Cote d'Ivoire,Nord,"(5.361844, -4.0231596)",5.361844,-4.0231596,Sub-Saharan Africa,0.477
+CIV,Cote d'Ivoire,Nord-Est,"(5.308612999999999, -3.9468284)",5.308613,-3.9468284,Sub-Saharan Africa,0.374
+CIV,Cote d'Ivoire,Nord-Ouest,"(7.702782699999999, -5.036833)",7.7027827,-5.036833,Sub-Saharan Africa,0.518
+CIV,Cote d'Ivoire,Ouest,"(7.539988999999999, -5.547079999999999)",7.539989,-5.54708,Sub-Saharan Africa,0.38
+CIV,Cote d'Ivoire,Sud-ouest,"(4.7459773, -6.6143386)",4.7459773,-6.6143386,Sub-Saharan Africa,0.394
+CIV,Cote d'Ivoire,Ville d'Abidjan,"(5.3428333, -4.0264183)",5.3428333,-4.0264183,Sub-Saharan Africa,0.109
+CMR,Cameroon,Adamaoua,"(6.9181954, 12.8054753)",6.9181954,12.8054753,Sub-Saharan Africa,0.269
+CMR,Cameroon,Douala,"(4.0510564, 9.7678687)",4.0510564,9.7678687,Sub-Saharan Africa,0.024
+CMR,Cameroon,Est,"(3.950512799999999, 13.914399)",3.9505128,13.914399,Sub-Saharan Africa,0.274
+CMR,Cameroon,Littoral (sans Douala),"(4.0134386, 9.717007299999999)",4.0134386,9.7170073,Sub-Saharan Africa,0.091
+CMR,Cameroon,Nord,"(8.580901299999999, 13.914399)",8.5809013,13.914399,Sub-Saharan Africa,0.458
+CMR,Cameroon,Nord-Ouest,"(6.470373899999999, 10.439656)",6.4703739,10.439656,Sub-Saharan Africa,0.167
+CMR,Cameroon,Ouest,"(5.4638158, 10.8000051)",5.4638158,10.8000051,Sub-Saharan Africa,0.146
+CMR,Cameroon,Sud,"(2.7202832, 11.7068294)",2.7202832,11.7068294,Sub-Saharan Africa,0.131
+CMR,Cameroon,Sud-Ouest,"(5.1573493, 9.367308399999999)",5.1573493,9.3673084,Sub-Saharan Africa,0.129
+COD,"Congo, Democratic Republic of the",Kinshasa,"(-4.4419311, 15.2662931)",-4.4419311,15.2662931,Sub-Saharan Africa,0.102
+COD,"Congo, Democratic Republic of the",Bandundu,"(-4.163679, 18.8076195)",-4.163679,18.8076195,Sub-Saharan Africa,0.435
+COD,"Congo, Democratic Republic of the",Bas-Congo,"(-5.2365685, 13.914399)",-5.2365685,13.914399,Sub-Saharan Africa,0.393
+COD,"Congo, Democratic Republic of the",Katanga,"(-8.8851145, 26.419389)",-8.8851145,26.419389,Sub-Saharan Africa,0.4
+COD,"Congo, Democratic Republic of the",Maniema,"(-3.0730929, 26.0413889)",-3.0730929,26.0413889,Sub-Saharan Africa,0.409
+COD,"Congo, Democratic Republic of the",Orientale,"(1.6406296, 26.419389)",1.6406296,26.419389,Sub-Saharan Africa,0.401
+COD,"Congo, Democratic Republic of the",Sud-Kivu,"(-3.011658, 28.299435)",-3.011658,28.299435,Sub-Saharan Africa,0.462
+COG,"Congo, Republic of",Kouilou,"(-4.1428413, 11.8891721)",-4.1428413,11.8891721,Sub-Saharan Africa,0.352
+COG,"Congo, Republic of",Niari,"(5.430892099999999, 7.524724300000001)",5.4308921,7.5247243,Sub-Saharan Africa,0.238
+COG,"Congo, Republic of",Pool,"(-3.7762628, 14.8454619)",-3.7762628,14.8454619,Sub-Saharan Africa,0.299
+COG,"Congo, Republic of",Plateaux,"(-2.0680088, 15.4068079)",-2.0680088,15.4068079,Sub-Saharan Africa,0.357
+COG,"Congo, Republic of",Cuvette,"(-0.2877446, 16.1580937)",-0.2877446,16.1580937,Sub-Saharan Africa,0.246
+COG,"Congo, Republic of",Cuvette-Ouest,"(0.144755, 14.4723301)",0.144755,14.4723301,Sub-Saharan Africa,0.312
+COG,"Congo, Republic of",Sangha,"(1.4662328, 15.4068079)",1.4662328,15.4068079,Sub-Saharan Africa,0.285
+COG,"Congo, Republic of",Likouala,"(2.043924000000001, 17.668887)",2.043924,17.668887,Sub-Saharan Africa,0.304
+COG,"Congo, Republic of",Brazzaville,"(18.8679349, -71.12255309999999)",18.8679349,-71.1225531,Sub-Saharan Africa,0.103
+COG,"Congo, Republic of",Pointe-Noire,"(-4.7691623, 11.866362)",-4.7691623,11.866362,Sub-Saharan Africa,0.094
+COL,Colombia,"Guajira, Cesar, Magdalena","(10.7582091, -72.8451323)",10.7582091,-72.8451323,Latin America and Caribbean,0.056
+COL,Colombia,Barranquilla A. M.,"(11.0041072, -74.80698129999999)",11.0041072,-74.8069813,Latin America and Caribbean,0.009
+COL,Colombia,"Atlantico, San Andres, Bolivar Norte","(12.5450153, -81.7075787)",12.5450153,-81.7075787,Latin America and Caribbean,0.012
+COL,Colombia,"Bolivar Sur, Sucre, Cordoba","(8.5705151, 8.3088441)",8.5705151,8.3088441,Latin America and Caribbean,0.061
+COL,Colombia,Santanderes,"(6.6437076, -73.65362089999999)",6.6437076,-73.6536209,Latin America and Caribbean,0.022
+COL,Colombia,"Boyaca, Cmarca, Meta","(17.2317561, -13.1740348)",17.2317561,-13.1740348,Latin America and Caribbean,0.018
+COL,Colombia,Medellin A.M.,"(6.244203, -75.5812119)",6.244203,-75.5812119,Latin America and Caribbean,0.005
+COL,Colombia,Antioquia Sin Medellin,"(6.244203, -75.5812119)",6.244203,-75.5812119,Latin America and Caribbean,0.037
+COL,Colombia,Cali A.M.,"(3.4516467, -76.5319854)",3.4516467,-76.5319854,Latin America and Caribbean,0.005
+COL,Colombia,Litoral Pacifico,"(5.2954172, -3.9835142)",5.2954172,-3.9835142,Latin America and Caribbean,0.059
+COL,Colombia,Bogota,"(13.4595508, -15.5401101)",13.4595508,-15.5401101,Latin America and Caribbean,0.003
+COL,Colombia,Orinoquia Y Amazonia,"(49.2647481, -122.7471312)",49.2647481,-122.7471312,Latin America and Caribbean,0.028
+COM,Comoros,Mwali (Mohðli),"(13.4929172, -16.0904721)",13.4929172,-16.0904721,Sub-Saharan Africa,0.213
+COM,Comoros,Ngazidja (Grande Comore),"(-17.1927361, -70.93281379999999)",-17.1927361,-70.9328138,Sub-Saharan Africa,0.116
+DJI,Djibouti,Djibouti,"(11.825138, 42.590275)",11.825138,42.590275,Arab States,0.125
+DOM,Dominican Republic,Cibao Noroeste,"(4.695135, 96.7493993)",4.695135,96.7493993,Latin America and Caribbean,0.047
+DOM,Dominican Republic,Cibao Norte,"(18.8679349, -71.12255309999999)",18.8679349,-71.1225531,Latin America and Caribbean,0.028
+DOM,Dominican Republic,Cibao Sur,"(18.8679349, -71.12255309999999)",18.8679349,-71.1225531,Latin America and Caribbean,0.03
+DOM,Dominican Republic,Del Yuma,"(18.4296612, -68.67525499999999)",18.4296612,-68.675255,Latin America and Caribbean,0.039
+DOM,Dominican Republic,El Valle,"(18.9771643, -69.37863829999999)",18.9771643,-69.3786383,Latin America and Caribbean,0.078
+DOM,Dominican Republic,Enriquillo,"(18.4787964, -71.59613279999999)",18.4787964,-71.5961328,Latin America and Caribbean,0.055
+DOM,Dominican Republic,Higuamo,"(18.4901651, -69.9602108)",18.4901651,-69.9602108,Latin America and Caribbean,0.043
+DOM,Dominican Republic,Metropolitana,"(18.4870314, -69.93797239999999)",18.4870314,-69.9379724,Latin America and Caribbean,0.028
+DOM,Dominican Republic,Valdesia,"(18.41386, -70.277748)",18.41386,-70.277748,Latin America and Caribbean,0.04
+ECU,Ecuador,Mountains,"(-1.4693018, -78.8169396)",-1.4693018,-78.8169396,Latin America and Caribbean,0.014
+ECU,Ecuador,Coast,"(34.352865, 62.20402869999999)",34.352865,62.2040287,Latin America and Caribbean,0.01
+ECU,Ecuador,Amazon,"(-3.4653053, -62.21588049999999)",-3.4653053,-62.2158805,Latin America and Caribbean,0.046
+ECU,Ecuador,Galapagos Island,"(-0.2051725, -78.4896935)",-0.2051725,-78.4896935,Latin America and Caribbean,0.003
+EGY,Egypt,Cairo,"(30.0444196, 31.2357116)",30.0444196,31.2357116,Arab States,0.006
+EGY,Egypt,Alexandria,"(31.2000924, 29.9187387)",31.2000924,29.9187387,Arab States,0.004
+EGY,Egypt,Port Said,"(10.9691601, 20.7122465)",10.9691601,20.7122465,Arab States,0.003
+EGY,Egypt,Suez,"(29.9668343, 32.5498069)",29.9668343,32.5498069,Arab States,0.008
+EGY,Egypt,Damietta,"(31.4175388, 31.81444339999999)",31.4175388,31.8144434,Arab States,0.011
+EGY,Egypt,Dakahlia,"(31.0832017, 31.4913182)",31.0832017,31.4913182,Arab States,0.005
+EGY,Egypt,Kalyubia,"(30.3292368, 31.2168466)",30.3292368,31.2168466,Arab States,0.005
+EGY,Egypt,Kafr El-Sheikh,"(31.1063198, 30.9419751)",31.1063198,30.9419751,Arab States,0.006
+EGY,Egypt,Gharbia,"(10.911057, -84.3172642)",10.911057,-84.3172642,Arab States,0.006
+EGY,Egypt,Menoufia,"(41.26666669999999, 69.21666669999999)",41.2666667,69.2166667,Arab States,0.008
+EGY,Egypt,Behera,"(30.8480986, 30.3435506)",30.8480986,30.3435506,Arab States,0.012
+EGY,Egypt,Ismailia,"(30.5964923, 32.2714587)",30.5964923,32.2714587,Arab States,0.009
+EGY,Egypt,Giza,"(30.0130557, 31.2088526)",30.0130557,31.2088526,Arab States,0.018
+EGY,Egypt,Beni Suef,"(29.0661274, 31.0993845)",29.0661274,31.0993845,Arab States,0.017
+EGY,Egypt,Fayoum,"(29.3084021, 30.8428497)",29.3084021,30.8428497,Arab States,0.022
+EGY,Egypt,Menya,"(28.0870967, 30.7618397)",28.0870967,30.7618397,Arab States,0.022
+EGY,Egypt,Assuit,"(27.1783117, 31.1859257)",27.1783117,31.1859257,Arab States,0.038
+EGY,Egypt,Souhag,"(26.5590737, 31.6956705)",26.5590737,31.6956705,Arab States,0.035
+EGY,Egypt,Qena,"(26.155061, 32.7160121)",26.155061,32.7160121,Arab States,0.015
+EGY,Egypt,Aswan,"(24.088938, 32.8998293)",24.088938,32.8998293,Arab States,0.013
+EGY,Egypt,Luxor,"(25.6872431, 32.6396357)",25.6872431,32.6396357,Arab States,0.015
+EGY,Egypt,Red Sea,"(25.1076838, 33.7964613)",25.1076838,33.7964613,Arab States,0.015
+EGY,Egypt,New Valley,"(24.5455638, 27.1735316)",24.5455638,27.1735316,Arab States,0.003
+EGY,Egypt,Matroh,"(6.829501899999999, -9.367308399999999)",6.8295019,-9.3673084,Arab States,0.036
+ETH,Ethiopia,Tigray,"(14.0323336, 38.3165725)",14.0323336,38.3165725,Sub-Saharan Africa,0.537
+ETH,Ethiopia,Affar,"(11.7559388, 40.958688)",11.7559388,40.958688,Sub-Saharan Africa,0.663
+ETH,Ethiopia,Amhara,"(11.3494247, 37.9784585)",11.3494247,37.9784585,Sub-Saharan Africa,0.588
+ETH,Ethiopia,Oromiya,"(7.546037699999999, 40.6346851)",7.5460377,40.6346851,Sub-Saharan Africa,0.592
+ETH,Ethiopia,Somali,"(6.6612293, 43.7908453)",6.6612293,43.7908453,Sub-Saharan Africa,0.647
+ETH,Ethiopia,Benishangul-Gumuz,"(10.7802889, 35.5657862)",10.7802889,35.5657862,Sub-Saharan Africa,0.584
+ETH,Ethiopia,"Southern Nations, Nationalities, and People's Region","(6.5156911, 36.954107)",6.5156911,36.954107,Sub-Saharan Africa,0.574
+ETH,Ethiopia,Gambela,"(8.2471899, 34.5915966)",8.2471899,34.5915966,Sub-Saharan Africa,0.474
+ETH,Ethiopia,Harari,"(9.314866, 42.1967716)",9.314866,42.1967716,Sub-Saharan Africa,0.333
+ETH,Ethiopia,Addis Ababa,"(8.9806034, 38.7577605)",8.9806034,38.7577605,Sub-Saharan Africa,0.085
+ETH,Ethiopia,Dire Dawa,"(9.6008747, 41.850142)",9.6008747,41.850142,Sub-Saharan Africa,0.338
+GAB,Gabon,Libreville/Port-Gentil,"(0.456963, 9.409852)",0.456963,9.409852,Sub-Saharan Africa,0.024
+GAB,Gabon,Estuaire (sans Libreville),"(0.456963, 9.409852)",0.456963,9.409852,Sub-Saharan Africa,0.063
+GAB,Gabon,Nyanga,"(-2.8821033, 11.1617356)",-2.8821033,11.1617356,Sub-Saharan Africa,0.16
+GHA,Ghana,Ashanti,"(6.7470436, -1.5208624)",6.7470436,-1.5208624,Sub-Saharan Africa,0.101
+GHA,Ghana,Brong Ahafo,"(7.9559247, -1.6760691)",7.9559247,-1.6760691,Sub-Saharan Africa,0.16
+GHA,Ghana,Central,"(5.5607846, -1.0586135)",5.5607846,-1.0586135,Sub-Saharan Africa,0.171
+GHA,Ghana,Eastern,"(31.2652893, 32.3018661)",31.2652893,32.3018661,Sub-Saharan Africa,0.155
+GHA,Ghana,Greater Accra,"(5.8142836, 0.0746767)",5.8142836,0.0746767,Sub-Saharan Africa,0.058
+GHA,Ghana,Northern,"(9.543926899999999, -0.9056623)",9.5439269,-0.9056623,Sub-Saharan Africa,0.382
+GHA,Ghana,Upper East,"(10.7082499, -0.9820667999999999)",10.7082499,-0.9820668,Sub-Saharan Africa,0.289
+GHA,Ghana,Upper West,"(10.2529757, -2.1450245)",10.2529757,-2.1450245,Sub-Saharan Africa,0.259
+GHA,Ghana,Volta,"(6.5781373, 0.4502368)",6.5781373,0.4502368,Sub-Saharan Africa,0.138
+GHA,Ghana,Western,"(5.3901978, -2.1450245)",5.3901978,-2.1450245,Sub-Saharan Africa,0.122
+GIN,Guinea,Conakry,"(9.641185499999999, -13.5784012)",9.6411855,-13.5784012,Sub-Saharan Africa,0.122
+GIN,Guinea,Faranah,"(10.0451022, -10.7492466)",10.0451022,-10.7492466,Sub-Saharan Africa,0.599
+GIN,Guinea,Kankan,"(10.3827887, -9.311828199999999)",10.3827887,-9.3118282,Sub-Saharan Africa,0.603
+GIN,Guinea,Kindia,"(10.0406725, -12.8629885)",10.0406725,-12.8629885,Sub-Saharan Africa,0.503
+GIN,Guinea,Mamou,"(10.3785237, -12.0832543)",10.3785237,-12.0832543,Sub-Saharan Africa,0.531
+GMB,Gambia,Banjul,"(13.4548761, -16.5790323)",13.4548761,-16.5790323,Sub-Saharan Africa,0.095
+GMB,Gambia,Kanifing,"(14.6489525, 2.1450245)",14.6489525,2.1450245,Sub-Saharan Africa,0.157
+GMB,Gambia,Brikama,"(13.2747943, -16.6409198)",13.2747943,-16.6409198,Sub-Saharan Africa,0.242
+GMB,Gambia,Mansakonko,"(35.1408881, 36.7551993)",35.1408881,36.7551993,Sub-Saharan Africa,0.352
+GMB,Gambia,Kuntaur,"(12.1844159, 6.2375947)",12.1844159,6.2375947,Sub-Saharan Africa,0.555
+GMB,Gambia,Janjanbureh,"(13.5336211, -14.7695962)",13.5336211,-14.7695962,Sub-Saharan Africa,0.46
+GMB,Gambia,Basse,"(13.3094412, -14.2192475)",13.3094412,-14.2192475,Sub-Saharan Africa,0.524
+GNB,Guinea-Bissau,Bafata,"(12.1735243, -14.652952)",12.1735243,-14.652952,Sub-Saharan Africa,0.545
+GNB,Guinea-Bissau,Biombo,"(11.8529061, -15.7351171)",11.8529061,-15.7351171,Sub-Saharan Africa,0.382
+GNB,Guinea-Bissau,Bolama,"(11.5891108, -15.5122694)",11.5891108,-15.5122694,Sub-Saharan Africa,0.352
+GNB,Guinea-Bissau,Cacheu,"(12.2732631, -16.1669156)",12.2732631,-16.1669156,Sub-Saharan Africa,0.335
+GNB,Guinea-Bissau,Gabu,"(11.8962488, -14.1001326)",11.8962488,-14.1001326,Sub-Saharan Africa,0.544
+GNB,Guinea-Bissau,Oio,"(12.2760709, -15.3131185)",12.2760709,-15.3131185,Sub-Saharan Africa,0.505
+GNB,Guinea-Bissau,Quinara,"(11.795562, -15.1726816)",11.795562,-15.1726816,Sub-Saharan Africa,0.414
+GNB,Guinea-Bissau,Tombali,"(11.3632696, -14.9856176)",11.3632696,-14.9856176,Sub-Saharan Africa,0.43
+GTM,Guatemala,Alta Verapaz,"(7.495263700000001, -10.0807298)",7.4952637,-10.0807298,Latin America and Caribbean,0.214
+GTM,Guatemala,Baja Verapaz,"(15.0787498, -90.4125181)",15.0787498,-90.4125181,Latin America and Caribbean,0.147
+GTM,Guatemala,Chimaltenango,"(14.6631591, -90.8246386)",14.6631591,-90.8246386,Latin America and Caribbean,0.082
+GTM,Guatemala,Chiquimula,"(14.7924897, -89.5450458)",14.7924897,-89.5450458,Latin America and Caribbean,0.2
+GTM,Guatemala,El Progreso,"(14.8921637, -90.0373201)",14.8921637,-90.0373201,Latin America and Caribbean,0.07
+GTM,Guatemala,Escuintla,"(14.3009252, -90.7881835)",14.3009252,-90.7881835,Latin America and Caribbean,0.067
+GTM,Guatemala,Guatemala Municipio,"(14.6349149, -90.5068824)",14.6349149,-90.5068824,Latin America and Caribbean,0.014
+GTM,Guatemala,Guatemala Resto,"(14.5987203, -90.51491569999999)",14.5987203,-90.5149157,Latin America and Caribbean,0.036
+GTM,Guatemala,Huehuetenango,"(15.3198766, -91.4918235)",15.3198766,-91.4918235,Latin America and Caribbean,0.187
+GTM,Guatemala,Izabal,"(15.5918066, -88.94138650000001)",15.5918066,-88.9413865,Latin America and Caribbean,0.106
+GTM,Guatemala,Jalapa,"(14.5655154, -89.9253233)",14.5655154,-89.9253233,Latin America and Caribbean,0.165
+GTM,Guatemala,Jutiapa,"(14.1930802, -89.9253233)",14.1930802,-89.9253233,Latin America and Caribbean,0.113
+GTM,Guatemala,Peten,"(16.912033, -90.2995785)",16.912033,-90.2995785,Latin America and Caribbean,0.134
+GTM,Guatemala,Quetzaltenango,"(14.8520705, -91.5305465)",14.8520705,-91.5305465,Latin America and Caribbean,0.094
+GTM,Guatemala,Quiche,"(15.4983808, -90.9820668)",15.4983808,-90.9820668,Latin America and Caribbean,0.193
+GTM,Guatemala,Retalhuleu,"(14.5245485, -91.685788)",14.5245485,-91.685788,Latin America and Caribbean,0.1
+GTM,Guatemala,Sacatepequez,"(14.6110576, -90.7152749)",14.6110576,-90.7152749,Latin America and Caribbean,0.048
+GTM,Guatemala,San Marcos,"(-26.9827577, 31.3541631)",-26.9827577,31.3541631,Latin America and Caribbean,0.123
+GTM,Guatemala,Santa Rosa,"(14.1928003, -90.37483540000001)",14.1928003,-90.3748354,Latin America and Caribbean,0.093
+GTM,Guatemala,Solola,"(14.7666085, -91.17850159999999)",14.7666085,-91.1785016,Latin America and Caribbean,0.09
+GTM,Guatemala,Suchitepequez,"(13.3198572, -87.1622344)",13.3198572,-87.1622344,Latin America and Caribbean,0.112
+GTM,Guatemala,Totonicapan,"(14.9173402, -91.36139229999999)",14.9173402,-91.3613923,Latin America and Caribbean,0.121
+GTM,Guatemala,Zacapa,"(14.9676218, -89.5356094)",14.9676218,-89.5356094,Latin America and Caribbean,0.112
+GUY,Guyana,Barima-Waini,"(7.488241899999999, -59.6564494)",7.4882419,-59.6564494,Latin America and Caribbean,0.057
+GUY,Guyana,Cuyuni-Mazaruni and Potaro-Siparuni,"(45.47863539999999, -122.640354)",45.4786354,-122.640354,Latin America and Caribbean,0.095
+GUY,Guyana,East Berbice-Corentyne,"(2.7477922, -57.4627259)",2.7477922,-57.4627259,Latin America and Caribbean,0.006
+GUY,Guyana,Essequibo Islands-West Demerara,"(6.5720132, -58.4629997)",6.5720132,-58.4629997,Latin America and Caribbean,0.005
+GUY,Guyana,Mahaica-Berbice,"(6.238496, -57.9162555)",6.238496,-57.9162555,Latin America and Caribbean,0.006
+GUY,Guyana,Pomeroon-Supenaam,"(7.1294166, -58.9206295)",7.1294166,-58.9206295,Latin America and Caribbean,0.014
+GUY,Guyana,Upper Demerara-Berbice,"(5.3064879, -58.18929209999999)",5.3064879,-58.1892921,Latin America and Caribbean,0.004
+GUY,Guyana,Upper Takutu-Upper Essequibo,"(2.9239595, -58.73736339999999)",2.9239595,-58.7373634,Latin America and Caribbean,0.145
+HND,Honduras,Comayagua,"(14.4490149, -87.6482474)",14.4490149,-87.6482474,Latin America and Caribbean,0.077
+HND,Honduras,Copðn,"(11.7274729, -86.21584969999999)",11.7274729,-86.2158497,Latin America and Caribbean,0.161
+HND,Honduras,Choluteca,"(13.4726005, -86.4592091)",13.4726005,-86.4592091,Latin America and Caribbean,0.108
+HND,Honduras,Gracias a Dios,"(33.1870471, -4.2333355)",33.1870471,-4.2333355,Latin America and Caribbean,0.124
+HND,Honduras,La Paz,"(14.3271237, -87.6729074)",14.3271237,-87.6729074,Latin America and Caribbean,0.107
+HND,Honduras,Lempira,"(14.1887698, -88.55653099999999)",14.1887698,-88.556531,Latin America and Caribbean,0.201
+HND,Honduras,Ocotepeque,"(14.5170347, -89.0561532)",14.5170347,-89.0561532,Latin America and Caribbean,0.109
+HND,Honduras,Olancho,"(14.8067406, -85.76666449999999)",14.8067406,-85.7666645,Latin America and Caribbean,0.089
+HND,Honduras,Valle,"(13.5782936, -87.5791287)",13.5782936,-87.5791287,Latin America and Caribbean,0.068
+HND,Honduras,Yoro,"(15.1369653, -87.1273253)",15.1369653,-87.1273253,Latin America and Caribbean,0.073
+HTI,Haiti,Sud-Est,"(27.6825285, 91.4821482)",27.6825285,91.4821482,Latin America and Caribbean,0.307
+HTI,Haiti,Nord,"(19.5687715, -72.189)",19.5687715,-72.189,Latin America and Caribbean,0.244
+HTI,Haiti,Nord-Est,"(19.4889723, -71.8571331)",19.4889723,-71.8571331,Latin America and Caribbean,0.323
+HTI,Haiti,Artibonite,"(19.362902, -72.4258145)",19.362902,-72.4258145,Latin America and Caribbean,0.316
+HTI,Haiti,Centre,"(18.9582742, -72.0468164)",18.9582742,-72.0468164,Latin America and Caribbean,0.391
+HTI,Haiti,Sud,"(18.3320005, -73.7007088)",18.3320005,-73.7007088,Latin America and Caribbean,0.249
+HTI,Haiti,Grande-Anse,"(18.5489259, -74.07701)",18.5489259,-74.07701,Latin America and Caribbean,0.378
+HTI,Haiti,Nord-Ouest,"(19.8374009, -73.0405277)",19.8374009,-73.0405277,Latin America and Caribbean,0.311
+HTI,Haiti,Nippes,"(18.3990735, -73.4180211)",18.3990735,-73.4180211,Latin America and Caribbean,0.257
+IDN,Indonesia,Aceh,"(12.4315534, -86.87221459999999)",12.4315534,-86.8722146,East Asia and the Pacific,0.077
+IDN,Indonesia,North Sumatera,"(2.1153547, 99.54509739999999)",2.1153547,99.5450974,East Asia and the Pacific,0.071
+IDN,Indonesia,West Sumatera,"(-0.7399397, 100.8000051)",-0.7399397,100.8000051,East Asia and the Pacific,0.056
+IDN,Indonesia,Riau,"(0.2933469, 101.7068294)",0.2933469,101.7068294,East Asia and the Pacific,0.053
+IDN,Indonesia,Jambi,"(-1.6101229, 103.6131203)",-1.6101229,103.6131203,East Asia and the Pacific,0.072
+IDN,Indonesia,South Sumatera,"(-3.3194374, 103.914399)",-3.3194374,103.914399,East Asia and the Pacific,0.054
+IDN,Indonesia,Bengkulu,"(14.7546303, 46.516262)",14.7546303,46.516262,East Asia and the Pacific,0.059
+IDN,Indonesia,Lampung,"(-4.5585849, 105.4068079)",-4.5585849,105.4068079,East Asia and the Pacific,0.065
+IDN,Indonesia,Bangka Belitung,"(-2.7410513, 106.4405872)",-2.7410513,106.4405872,East Asia and the Pacific,0.053
+IDN,Indonesia,Riau Islands,"(3.9456514, 108.1428669)",3.9456514,108.1428669,East Asia and the Pacific,0.041
+IDN,Indonesia,DKI Jakarta,"(-6.17511, 106.8650395)",-6.17511,106.8650395,East Asia and the Pacific,0.029
+IDN,Indonesia,West Java,"(-7.090910999999999, 107.668887)",-7.090911,107.668887,East Asia and the Pacific,0.057
+IDN,Indonesia,Central Java,"(-7.150975, 110.1402594)",-7.150975,110.1402594,East Asia and the Pacific,0.053
+IDN,Indonesia,DI Yogyakarta,"(-7.875384899999999, 110.4262088)",-7.8753849,110.4262088,East Asia and the Pacific,0.025
+IDN,Indonesia,East Java,"(-7.5360639, 112.2384017)",-7.5360639,112.2384017,East Asia and the Pacific,0.055
+IDN,Indonesia,Banten,"(-6.4058172, 106.0640179)",-6.4058172,106.0640179,East Asia and the Pacific,0.075
+IDN,Indonesia,Bali,"(-8.4095178, 115.188916)",-8.4095178,115.188916,East Asia and the Pacific,0.042
+IDN,Indonesia,West Nusa Tenggara,"(-17.9646772, -67.1060353)",-17.9646772,-67.1060353,East Asia and the Pacific,0.121
+IDN,Indonesia,East Nusa Tenggara,"(-8.657381899999999, 121.0793705)",-8.6573819,121.0793705,East Asia and the Pacific,0.164
+IDN,Indonesia,West Kalimantan,"(-0.2787808, 111.4752851)",-0.2787808,111.4752851,East Asia and the Pacific,0.086
+IDN,Indonesia,Central Kalimantan,"(-1.6814878, 113.3823545)",-1.6814878,113.3823545,East Asia and the Pacific,0.084
+IDN,Indonesia,South Kalimantan,"(-3.0926415, 115.2837585)",-3.0926415,115.2837585,East Asia and the Pacific,0.085
+IDN,Indonesia,East Kalimantan,"(0.5386586, 116.419389)",0.5386586,116.419389,East Asia and the Pacific,0.058
+IDN,Indonesia,North Sulawesi,"(0.6246932, 123.9750018)",0.6246932,123.9750018,East Asia and the Pacific,0.059
+IDN,Indonesia,Central Sulawesi,"(-1.4300254, 121.4456179)",-1.4300254,121.4456179,East Asia and the Pacific,0.132
+IDN,Indonesia,South Sulawesi,"(-3.6687994, 119.9740534)",-3.6687994,119.9740534,East Asia and the Pacific,0.063
+IDN,Indonesia,Southeast Sulawesi,"(-4.144909999999999, 122.174605)",-4.14491,122.174605,East Asia and the Pacific,0.109
+IDN,Indonesia,Gorontalo,"(0.6999371999999999, 122.4467238)",0.6999372,122.4467238,East Asia and the Pacific,0.128
+IDN,Indonesia,West Sulawesi,"(34.5337527, 43.483738)",34.5337527,43.483738,East Asia and the Pacific,0.161
+IDN,Indonesia,Maluku,"(-2.8614979, 129.5765974)",-2.8614979,129.5765974,East Asia and the Pacific,0.105
+IDN,Indonesia,North Maluku,"(1.5709993, 127.8087693)",1.5709993,127.8087693,East Asia and the Pacific,0.129
+IDN,Indonesia,West Papua,"(-4.185235, 136.8252838)",-4.185235,136.8252838,East Asia and the Pacific,0.122
+IDN,Indonesia,Papua,"(-4.269928, 138.0803529)",-4.269928,138.0803529,East Asia and the Pacific,0.234
+IRQ,Iraq,Dohuk,"(36.8679054, 42.9488574)",36.8679054,42.9488574,Arab States,0.031
+IRQ,Iraq,Ninewa,"(36.229574, 42.2362435)",36.229574,42.2362435,Arab States,0.054
+IRQ,Iraq,Suleimaniya,"(35.5570454, 45.4359425)",35.5570454,45.4359425,Arab States,0.01
+IRQ,Iraq,Kirkuk,"(35.4655761, 44.38039209999999)",35.4655761,44.3803921,Arab States,0.035
+IRQ,Iraq,Erbil,"(36.2062933, 44.0088697)",36.2062933,44.0088697,Arab States,0.031
+IRQ,Iraq,Diyala,"(33.7733487, 45.1494505)",33.7733487,45.1494505,Arab States,0.038
+IRQ,Iraq,Al-Anbar,"(32.5597614, 41.9196471)",32.5597614,41.9196471,Arab States,0.052
+IRQ,Iraq,Baghdad,"(33.3128057, 44.3614875)",33.3128057,44.3614875,Arab States,0.027
+IRQ,Iraq,Babil,"(32.468191, 44.5501935)",32.468191,44.5501935,Arab States,0.042
+IRQ,Iraq,Karbala,"(32.6068464, 44.0103922)",32.6068464,44.0103922,Arab States,0.053
+IRQ,Iraq,Wasit,"(32.6024094, 45.7520985)",32.6024094,45.7520985,Arab States,0.058
+IRQ,Iraq,Salahaddin,"(-0.9422027, -80.7303634)",-0.9422027,-80.7303634,Arab States,0.054
+IRQ,Iraq,Al-Najaf,"(32.027376, 44.3331165)",32.027376,44.3331165,Arab States,0.055
+IRQ,Iraq,Al-Qadisiya,"(32.043691, 45.1494505)",32.043691,45.1494505,Arab States,0.082
+IRQ,Iraq,Al-Muthanna,"(-23.5819954, 47.2923893)",-23.5819954,47.2923893,Arab States,0.079
+IRQ,Iraq,Thi-Qar,"(31.1042292, 46.3624686)",31.1042292,46.3624686,Arab States,0.06
+IRQ,Iraq,Missan,"(31.8734002, 47.1362125)",31.8734002,47.1362125,Arab States,0.098
+IRQ,Iraq,Basrah,"(30.5081033, 47.7834888)",30.5081033,47.7834888,Arab States,0.045
+JAM,Jamaica,Kingston,"(18.0178743, -76.8099041)",18.0178743,-76.8099041,Latin America and Caribbean,0.009
+JAM,Jamaica,St.  Andrew,"(18.0391345, -76.7567368)",18.0391345,-76.7567368,Latin America and Caribbean,0.007
+JAM,Jamaica,St. Thomas,"(17.9700261, -76.4331698)",17.9700261,-76.4331698,Latin America and Caribbean,0.006
+JAM,Jamaica,Portland,"(18.0844274, -76.4100267)",18.0844274,-76.4100267,Latin America and Caribbean,0.004
+JAM,Jamaica,St. Mary,"(18.3092711, -76.964306)",18.3092711,-76.964306,Latin America and Caribbean,0.009
+JAM,Jamaica,St. Ann,"(27.002382, 91.3469247)",27.002382,91.3469247,Latin America and Caribbean,0.004
+JAM,Jamaica,Trelawny,"(18.3526143, -77.6077865)",18.3526143,-77.6077865,Latin America and Caribbean,0.016
+JAM,Jamaica,St. James,"(18.3923184, -77.85959629999999)",18.3923184,-77.8595963,Latin America and Caribbean,0.003
+JAM,Jamaica,Hanover,"(18.4097707, -78.13363799999999)",18.4097707,-78.133638,Latin America and Caribbean,0.007
+JAM,Jamaica,Westmoreland,"(18.2944378, -78.1564432)",18.2944378,-78.1564432,Latin America and Caribbean,0.004
+JAM,Jamaica,St. Elizabeth,"(18.0788461, -77.69941969999999)",18.0788461,-77.6994197,Latin America and Caribbean,0.013
+JAM,Jamaica,Manchester,"(18.0669654, -77.5160788)",18.0669654,-77.5160788,Latin America and Caribbean,0.006
+JAM,Jamaica,St. Catherine,"(18.0364134, -77.0564464)",18.0364134,-77.0564464,Latin America and Caribbean,0.004
+JOR,Jordan,Central,"(31.957151, 35.930865)",31.957151,35.930865,Arab States,0.005
+JOR,Jordan,North,"(10.3009641, 9.8236533)",10.3009641,9.8236533,Arab States,0.006
+JOR,Jordan,South,"(40.5621704, -111.929658)",40.5621704,-111.929658,Arab States,0.008
+KEN,Kenya,Central,"(-4.0627412, 39.6771481)",-4.0627412,39.6771481,Sub-Saharan Africa,0.075
+KEN,Kenya,Coast,"(-3.2096898, 40.1169399)",-3.2096898,40.1169399,Sub-Saharan Africa,0.242
+KEN,Kenya,Eastern,"(0.7137256, 35.517938)",0.7137256,35.517938,Sub-Saharan Africa,0.19
+KEN,Kenya,Nairobi,"(-1.2920659, 36.8219462)",-1.2920659,36.8219462,Sub-Saharan Africa,0.02
+KEN,Kenya,North Eastern,"(-0.0190061, 37.6480812)",-0.0190061,37.6480812,Sub-Saharan Africa,0.509
+KEN,Kenya,Nyanza,"(-1.2849963, 36.8272273)",-1.2849963,36.8272273,Sub-Saharan Africa,0.211
+KEN,Kenya,Rift Valley,"(-18.382333, 47.2923893)",-18.382333,47.2923893,Sub-Saharan Africa,0.205
+KEN,Kenya,Western,"(-0.115003, 34.851379)",-0.115003,34.851379,Sub-Saharan Africa,0.223
+KHM,Cambodia,Banteay Mean Chey,"(13.6672596, 102.8975098)",13.6672596,102.8975098,East Asia and the Pacific,0.097
+KHM,Cambodia,Kampong Cham,"(11.9924294, 105.4645408)",11.9924294,105.4645408,East Asia and the Pacific,0.16
+KHM,Cambodia,Kampong Chhnang,"(12.1392352, 104.5655273)",12.1392352,104.5655273,East Asia and the Pacific,0.193
+KHM,Cambodia,Kampong Speu,"(6.0673327, -59.6146737)",6.0673327,-59.6146737,East Asia and the Pacific,0.182
+KHM,Cambodia,Kampong Thom,"(-15.5997929, 34.5140637)",-15.5997929,34.5140637,East Asia and the Pacific,0.183
+KHM,Cambodia,Kampot & Kep,"(10.4790637, 104.2941991)",10.4790637,104.2941991,East Asia and the Pacific,0.155
+KHM,Cambodia,Kandal,"(11.2237383, 105.1258955)",11.2237383,105.1258955,East Asia and the Pacific,0.121
+KHM,Cambodia,Kratie,"(12.4896877, 106.0287512)",12.4896877,106.0287512,East Asia and the Pacific,0.274
+KHM,Cambodia,Mondol Kiri & Rattanak Kiri,"(12.4534492, 107.1771291)",12.4534492,107.1771291,East Asia and the Pacific,0.28
+KHM,Cambodia,Otdar Mean Chey,"(14.1717195, 103.6362715)",14.1717195,103.6362715,East Asia and the Pacific,0.196
+KHM,Cambodia,Phnom Penh,"(11.5448729, 104.8921668)",11.5448729,104.8921668,East Asia and the Pacific,0.026
+KHM,Cambodia,Preah Sihanouk & Kaoh Kong,"(10.5669833, 103.3039198)",10.5669833,103.3039198,East Asia and the Pacific,0.091
+KHM,Cambodia,Prey Veng,"(11.3802442, 105.5005483)",11.3802442,105.5005483,East Asia and the Pacific,0.12
+KHM,Cambodia,Pursat,"(12.3663211, 103.6362715)",12.3663211,103.6362715,East Asia and the Pacific,0.221
+KHM,Cambodia,Siem Reap,"(13.3670968, 103.8448134)",13.3670968,103.8448134,East Asia and the Pacific,0.204
+KHM,Cambodia,Svay Rieng,"(11.142722, 105.8290298)",11.142722,105.8290298,East Asia and the Pacific,0.1
+KHM,Cambodia,Takeo,"(10.9321519, 104.798771)",10.9321519,104.798771,East Asia and the Pacific,0.106
+LAO,Lao People's Democratic Republic,Vientiane Capital,"(17.9757058, 102.6331035)",17.9757058,102.6331035,East Asia and the Pacific,0.012
+LAO,Lao People's Democratic Republic,Phongsaly,"(21.5919377, 102.2547919)",21.5919377,102.2547919,East Asia and the Pacific,0.311
+LAO,Lao People's Democratic Republic,Luangnamtha,"(20.9170187, 101.1617356)",20.9170187,101.1617356,East Asia and the Pacific,0.165
+LAO,Lao People's Democratic Republic,Oudomxay,"(20.4921929, 101.8891721)",20.4921929,101.8891721,East Asia and the Pacific,0.248
+LAO,Lao People's Democratic Republic,Bokeo,"(20.2872662, 100.7097867)",20.2872662,100.7097867,East Asia and the Pacific,0.212
+LAO,Lao People's Democratic Republic,Luangprabang,"(20.0656229, 102.6216211)",20.0656229,102.6216211,East Asia and the Pacific,0.18
+LAO,Lao People's Democratic Republic,Huaphanh,"(14.4215982, -91.4048249)",14.4215982,-91.4048249,East Asia and the Pacific,0.184
+LAO,Lao People's Democratic Republic,Xayabury,"(19.1945799, 101.483498)",19.1945799,101.483498,East Asia and the Pacific,0.079
+LAO,Lao People's Democratic Republic,Xiengkhuang,"(19.6093003, 103.7289167)",19.6093003,103.7289167,East Asia and the Pacific,0.164
+LAO,Lao People's Democratic Republic,Vientiane,"(17.9757058, 102.6331035)",17.9757058,102.6331035,East Asia and the Pacific,0.063
+LAO,Lao People's Democratic Republic,Borikhamxay,"(18.4362924, 104.4723301)",18.4362924,104.4723301,East Asia and the Pacific,0.063
+LAO,Lao People's Democratic Republic,Khammuane,"(17.6384066, 105.2194808)",17.6384066,105.2194808,East Asia and the Pacific,0.2
+LAO,Lao People's Democratic Republic,Savannakhet,"(16.5722464, 104.7705509)",16.5722464,104.7705509,East Asia and the Pacific,0.262
+LAO,Lao People's Democratic Republic,Saravane,"(15.8171073, 106.2522143)",15.8171073,106.2522143,East Asia and the Pacific,0.359
+LAO,Lao People's Democratic Republic,Sekong,"(15.5767446, 107.0067031)",15.5767446,107.0067031,East Asia and the Pacific,0.254
+LAO,Lao People's Democratic Republic,Champasack,"(14.6578664, 105.9699878)",14.6578664,105.9699878,East Asia and the Pacific,0.149
+LAO,Lao People's Democratic Republic,Attapeu,"(14.93634, 107.1011931)",14.93634,107.1011931,East Asia and the Pacific,0.215
+LBR,Liberia,Bomi,"(6.7562926, -10.8451467)",6.7562926,-10.8451467,Sub-Saharan Africa,0.407
+LBR,Liberia,Bong,"(-5.115146, -78.11082789999999)",-5.115146,-78.1108279,Sub-Saharan Africa,0.508
+LBR,Liberia,Gbarpolu,"(48.963603, 89.935224)",48.963603,89.935224,Sub-Saharan Africa,0.505
+LBR,Liberia,Grand Bassa,"(6.2308452, -9.8124935)",6.2308452,-9.8124935,Sub-Saharan Africa,0.527
+LBR,Liberia,Grand Cape Mount,"(7.0467758, -11.0711758)",7.0467758,-11.0711758,Sub-Saharan Africa,0.482
+LBR,Liberia,Grand Gedeh,"(5.9222078, -8.2212979)",5.9222078,-8.2212979,Sub-Saharan Africa,0.349
+LBR,Liberia,Grand Kru,"(4.7613862, -8.2212979)",4.7613862,-8.2212979,Sub-Saharan Africa,0.48
+LBR,Liberia,Margibi,"(6.5151875, -10.3048897)",6.5151875,-10.3048897,Sub-Saharan Africa,0.364
+LBR,Liberia,Maryland,"(4.7258878, -7.741670300000001)",4.7258878,-7.7416703,Sub-Saharan Africa,0.388
+LBR,Liberia,Montserrado,"(6.5525815, -10.5296115)",6.5525815,-10.5296115,Sub-Saharan Africa,0.25
+LBR,Liberia,Nimba,"(6.8427612, -8.6600586)",6.8427612,-8.6600586,Sub-Saharan Africa,0.377
+LBR,Liberia,River Cess,"(5.902532799999999, -9.456155)",5.9025328,-9.456155,Sub-Saharan Africa,0.536
+LBR,Liberia,River Gee,"(5.2604894, -7.872159999999999)",5.2604894,-7.87216,Sub-Saharan Africa,0.433
+LBR,Liberia,Sinoe,"(5.49871, -8.6600586)",5.49871,-8.6600586,Sub-Saharan Africa,0.445
+LSO,Lesotho,Berea,"(-29.1746723, 27.8311428)",-29.1746723,27.8311428,Sub-Saharan Africa,0.106
+LSO,Lesotho,Botha-Bothe,"(-28.7653754, 28.2468148)",-28.7653754,28.2468148,Sub-Saharan Africa,0.149
+LSO,Lesotho,Leribe,"(-28.95107729999999, 28.2526623)",-28.9510773,28.2526623,Sub-Saharan Africa,0.106
+LSO,Lesotho,Mafeteng,"(-29.8224312, 27.2388161)",-29.8224312,27.2388161,Sub-Saharan Africa,0.131
+LSO,Lesotho,Maseru,"(-29.36321879999999, 27.5143603)",-29.3632188,27.5143603,Sub-Saharan Africa,0.082
+LSO,Lesotho,Mohale'S Hoek,"(-30.1425917, 27.4673845)",-30.1425917,27.4673845,Sub-Saharan Africa,0.178
+LSO,Lesotho,Mokhotlong,"(17.9557183, -77.2405153)",17.9557183,-77.2405153,Sub-Saharan Africa,0.291
+LSO,Lesotho,Qacha'S-Nek,"(-30.1114565, 28.678979)",-30.1114565,28.678979,Sub-Saharan Africa,0.173
+LSO,Lesotho,Quthing,"(-30.4015687, 27.7080133)",-30.4015687,27.7080133,Sub-Saharan Africa,0.151
+LSO,Lesotho,Thaba Tseka,"(-29.5238975, 28.6089752)",-29.5238975,28.6089752,Sub-Saharan Africa,0.267
+MAR,Morocco,Sahara,"(31.791702, -7.092619999999999)",31.791702,-7.09262,Arab States,0.017
+MAR,Morocco,Souss-Massa-Draa,"(31.12001849999999, -6.0679194)",31.1200185,-6.0679194,Arab States,0.102
+MAR,Morocco,El Gharb-Chrarda Bni Hssen,"(34.302131, -6.302078)",34.302131,-6.302078,Arab States,0.084
+MAR,Morocco,Chaouia Ourdigha,"(33.0473251, -7.265285799999999)",33.0473251,-7.2652858,Arab States,0.066
+MAR,Morocco,Marrakech-Tensift-El Haouz,"(31.5628076, -7.959286299999999)",31.5628076,-7.9592863,Arab States,0.131
+MAR,Morocco,Grand Casablanca,"(33.52059330000001, -7.5680595)",33.5205933,-7.5680595,Arab States,0.003
+MAR,Morocco,Rabat-Salð-Zemmour-Zair,"(33.8175173, -6.2375947)",33.8175173,-6.2375947,Arab States,0.016
+MAR,Morocco,Doukkala-Abda,"(32.5997754, -8.6600586)",32.5997754,-8.6600586,Arab States,0.06
+MAR,Morocco,Tadla-Azilal,"(32.004262, -6.5783387)",32.004262,-6.5783387,Arab States,0.07
+MAR,Morocco,Meknes-Tafilalet,"(31.9051275, -4.7277528)",31.9051275,-4.7277528,Arab States,0.037
+MAR,Morocco,Fes-Boulemane,"(-4.2633597, 15.2428853)",-4.2633597,15.2428853,Arab States,0.042
+MAR,Morocco,Taza-Al Hoceima-Taounate,"(34.2581709, -4.2333355)",34.2581709,-4.2333355,Arab States,0.123
+MAR,Morocco,Tanger-Tetouan,"(35.2629558, -5.5617279)",35.2629558,-5.5617279,Arab States,0.083
+MDG,Madagascar,Analamanga,"(30.8753556, 31.03351)",30.8753556,31.03351,Sub-Saharan Africa,0.178
+MDG,Madagascar,Vakinankaratra,"(-19.7184663, 46.670534)",-19.7184663,46.670534,Sub-Saharan Africa,0.357
+MDG,Madagascar,Itasy,"(-18.9006786, 46.9805103)",-18.9006786,46.9805103,Sub-Saharan Africa,0.397
+MDG,Madagascar,Bongolava,"(-18.6336864, 46.0563212)",-18.6336864,46.0563212,Sub-Saharan Africa,0.319
+MDG,Madagascar,Haute Matsiatra,"(-21.3390868, 46.516262)",-21.3390868,46.516262,Sub-Saharan Africa,0.4
+MDG,Madagascar,Vatovavy Fitovinany,"(-21.3205653, 47.92182039999999)",-21.3205653,47.9218204,Sub-Saharan Africa,0.514
+MDG,Madagascar,Ihorombe,"(-22.6558058, 46.3624686)",-22.6558058,46.3624686,Sub-Saharan Africa,0.448
+MDG,Madagascar,Atsimo Atsinanana,"(0.3148253, 32.5808788)",0.3148253,32.5808788,Sub-Saharan Africa,0.531
+MDG,Madagascar,Atsinanana,"(-18.8131481, 48.8799972)",-18.8131481,48.8799972,Sub-Saharan Africa,0.269
+MDG,Madagascar,Analanjirofo,"(-16.507537, 49.5279996)",-16.507537,49.5279996,Sub-Saharan Africa,0.383
+MDG,Madagascar,Alaotra Mangoro,"(-18.0284909, 48.2393528)",-18.0284909,48.2393528,Sub-Saharan Africa,0.309
+MDG,Madagascar,Boeny,"(-16.3645202, 45.9039689)",-16.3645202,45.9039689,Sub-Saharan Africa,0.31
+MDG,Madagascar,Sofia,"(-15.4135578, 48.0803529)",-15.4135578,48.0803529,Sub-Saharan Africa,0.32
+MDG,Madagascar,Betsiboka,"(-16.3296686, 46.6226097)",-16.3296686,46.6226097,Sub-Saharan Africa,0.433
+MDG,Madagascar,Melaky,"(-17.3776488, 44.7006138)",-17.3776488,44.7006138,Sub-Saharan Africa,0.509
+MDG,Madagascar,Atsimo Andrefana,"(-23.1485269, 44.3992892)",-23.1485269,44.3992892,Sub-Saharan Africa,0.427
+MDG,Madagascar,Androy,"(-24.7497835, 45.4498065)",-24.7497835,45.4498065,Sub-Saharan Africa,0.547
+MDG,Madagascar,Anosy,"(-23.5579591, 45.9039689)",-23.5579591,45.9039689,Sub-Saharan Africa,0.486
+MDG,Madagascar,Menabe,"(30.5972455, 30.9876321)",30.5972455,30.9876321,Sub-Saharan Africa,0.417
+MDG,Madagascar,Diana,"(-13.4086535, 49.2030851)",-13.4086535,49.2030851,Sub-Saharan Africa,0.294
+MDG,Madagascar,Sava,"(-14.4407175, 49.8547266)",-14.4407175,49.8547266,Sub-Saharan Africa,0.327
+MLI,Mali,Kayes,"(14.4367876, -11.4452717)",14.4367876,-11.4452717,Sub-Saharan Africa,0.485
+MLI,Mali,Koulikoro,"(13.8018074, -7.4381355)",13.8018074,-7.4381355,Sub-Saharan Africa,0.44
+MLI,Mali,Sikasso,"(11.3223834, -5.6983979)",11.3223834,-5.6983979,Sub-Saharan Africa,0.484
+MLI,Mali,Mopti,"(14.4874284, -4.1974627)",14.4874284,-4.1974627,Sub-Saharan Africa,0.594
+MLI,Mali,Bamako,"(12.6392316, -8.0028892)",12.6392316,-8.0028892,Sub-Saharan Africa,0.168
+MMR,Myanmar,Ayeyarwaddy,"(17.0342125, 95.22666749999999)",17.0342125,95.2266675,East Asia and the Pacific,0.171
+MMR,Myanmar,Bago,"(17.3220711, 96.4663286)",17.3220711,96.4663286,East Asia and the Pacific,0.129
+MMR,Myanmar,Chin,"(22.3896751, 93.5812692)",22.3896751,93.5812692,East Asia and the Pacific,0.152
+MMR,Myanmar,Kachin,"(25.850904, 97.4381355)",25.850904,97.4381355,East Asia and the Pacific,0.083
+MMR,Myanmar,Kayah,"(19.2342061, 97.26528580000002)",19.2342061,97.2652858,East Asia and the Pacific,0.099
+MMR,Myanmar,Kayin,"(16.9459346, 97.9592863)",16.9459346,97.9592863,East Asia and the Pacific,0.183
+MMR,Myanmar,Magway,"(20.1544305, 94.9454803)",20.1544305,94.9454803,East Asia and the Pacific,0.114
+MMR,Myanmar,Mandalay,"(21.9588282, 96.0891032)",21.9588282,96.0891032,East Asia and the Pacific,0.099
+MMR,Myanmar,Mon,"(17.0626039, 97.35165579999999)",17.0626039,97.3516558,East Asia and the Pacific,0.109
+MMR,Myanmar,Naypyitaw,"(19.7633057, 96.07851040000001)",19.7633057,96.0785104,East Asia and the Pacific,0.11
+MMR,Myanmar,Rakhine,"(19.810093, 93.9878427)",19.810093,93.9878427,East Asia and the Pacific,0.258
+MMR,Myanmar,Sagaing,"(21.9159702, 95.9621106)",21.9159702,95.9621106,East Asia and the Pacific,0.134
+MMR,Myanmar,Shan,"(22.0361985, 98.1338558)",22.0361985,98.1338558,East Asia and the Pacific,0.194
+MMR,Myanmar,Taninthayi,"(12.0896327, 99.0115113)",12.0896327,99.0115113,East Asia and the Pacific,0.129
+MMR,Myanmar,Yangon,"(16.8660694, 96.19513200000002)",16.8660694,96.195132,East Asia and the Pacific,0.051
+MNG,Mongolia,Central,"(47.2124056, 106.41541)",47.2124056,106.41541,East Asia and the Pacific,0.041
+MNG,Mongolia,Eastern,"(47.4658154, 115.392712)",47.4658154,115.392712,East Asia and the Pacific,0.044
+MNG,Mongolia,Khangai,"(47.5, 100)",47.5,100,East Asia and the Pacific,0.075
+MNG,Mongolia,Ulaanbaatar,"(47.88639879999999, 106.9057439)",47.8863988,106.9057439,East Asia and the Pacific,0.006
+MNG,Mongolia,Western,"(3.6567382, -56.2035387)",3.6567382,-56.2035387,East Asia and the Pacific,0.09
+MOZ,Mozambique,Niassa,"(-12.7826202, 36.6093926)",-12.7826202,36.6093926,Sub-Saharan Africa,0.443
+MOZ,Mozambique,Cabo Delgado,"(-12.3335474, 39.3206241)",-12.3335474,39.3206241,Sub-Saharan Africa,0.525
+MOZ,Mozambique,Nampula,"(-15.1266347, 39.2687161)",-15.1266347,39.2687161,Sub-Saharan Africa,0.4
+MOZ,Mozambique,Tete,"(-16.1328104, 33.6063855)",-16.1328104,33.6063855,Sub-Saharan Africa,0.466
+MOZ,Mozambique,Manica,"(-18.9438274, 32.8648538)",-18.9438274,32.8648538,Sub-Saharan Africa,0.301
+MOZ,Mozambique,Sofala,"(-19.2039073, 34.8624166)",-19.2039073,34.8624166,Sub-Saharan Africa,0.381
+MOZ,Mozambique,Inhambane,"(-23.8879561, 35.3959879)",-23.8879561,35.3959879,Sub-Saharan Africa,0.295
+MOZ,Mozambique,Gaza,"(41.2994958, 69.2400734)",41.2994958,69.2400734,Sub-Saharan Africa,0.306
+MOZ,Mozambique,Maputo Provðncia,"(-3.18427, 12.2547919)",-3.18427,12.2547919,Sub-Saharan Africa,0.133
+MOZ,Mozambique,Maputo Cidade,"(-25.891968, 32.6051351)",-25.891968,32.6051351,Sub-Saharan Africa,0.043
+MRT,Mauritania,Hodh Gharby,"(16.6912149, -9.5450974)",16.6912149,-9.5450974,Sub-Saharan Africa,0.438
+MRT,Mauritania,Assaba,"(16.7759558, -11.5248055)",16.7759558,-11.5248055,Sub-Saharan Africa,0.419
+MRT,Mauritania,Gorgol,"(15.9717357, -12.6216211)",15.9717357,-12.6216211,Sub-Saharan Africa,0.46
+MRT,Mauritania,Brakna,"(15.5006544, 32.5598994)",15.5006544,32.5598994,Sub-Saharan Africa,0.307
+MRT,Mauritania,Trarza,"(17.8664964, -14.6587821)",17.8664964,-14.6587821,Sub-Saharan Africa,0.181
+MRT,Mauritania,Adrar,"(19.8652176, -12.8054753)",19.8652176,-12.8054753,Sub-Saharan Africa,0.184
+MRT,Mauritania,Dakhlett Nouadibou,"(20.5985588, -16.2522143)",20.5985588,-16.2522143,Sub-Saharan Africa,0.039
+MRT,Mauritania,Tagant,"(18.5467527, -9.9018131)",18.5467527,-9.9018131,Sub-Saharan Africa,0.322
+MRT,Mauritania,Guidimagha,"(15.2557331, -12.2547919)",15.2557331,-12.2547919,Sub-Saharan Africa,0.499
+MRT,Mauritania,Tirs-Ezemour,"(24.5773764, -9.9018131)",24.5773764,-9.9018131,Sub-Saharan Africa,0.085
+MRT,Mauritania,Nouakchott,"(18.0735299, -15.9582372)",18.0735299,-15.9582372,Sub-Saharan Africa,0.102
+MWI,Malawi,Balaka,"(-15.0506595, 35.0828588)",-15.0506595,35.0828588,Sub-Saharan Africa,0.283
+MWI,Malawi,Blantyre City,"(-15.7666707, 35.0167866)",-15.7666707,35.0167866,Sub-Saharan Africa,0.118
+MWI,Malawi,Chikwawa,"(-16.0437784, 34.8016945)",-16.0437784,34.8016945,Sub-Saharan Africa,0.292
+MWI,Malawi,Chitipa,"(-9.7037655, 33.2700253)",-9.7037655,33.2700253,Sub-Saharan Africa,0.161
+MWI,Malawi,Chradzulu,"(-15.7423151, 35.2587964)",-15.7423151,35.2587964,Sub-Saharan Africa,0.241
+MWI,Malawi,Dedza,"(-14.3816618, 34.3254842)",-14.3816618,34.3254842,Sub-Saharan Africa,0.314
+MWI,Malawi,Dowa,"(-13.6514687, 33.9359756)",-13.6514687,33.9359756,Sub-Saharan Africa,0.267
+MWI,Malawi,Karonga,"(-9.952536, 33.9248222)",-9.952536,33.9248222,Sub-Saharan Africa,0.204
+MWI,Malawi,Kasungu,"(-13.0356794, 33.4719832)",-13.0356794,33.4719832,Sub-Saharan Africa,0.244
+MWI,Malawi,Likoma,"(-12.0584005, 34.7354031)",-12.0584005,34.7354031,Sub-Saharan Africa,0.114
+MWI,Malawi,Lilongwe City,"(-13.9626121, 33.7741195)",-13.9626121,33.7741195,Sub-Saharan Africa,0.092
+MWI,Malawi,Lilongwe Rural,"(29.9133171, 45.29938620000001)",29.9133171,45.2993862,Sub-Saharan Africa,0.286
+MWI,Malawi,Machinga,"(-14.9407263, 35.4781926)",-14.9407263,35.4781926,Sub-Saharan Africa,0.322
+MWI,Malawi,Mangochi,"(-14.4861733, 35.253304)",-14.4861733,35.253304,Sub-Saharan Africa,0.302
+MWI,Malawi,Mchinji,"(-13.8000058, 32.8930441)",-13.8000058,32.8930441,Sub-Saharan Africa,0.314
+MWI,Malawi,Mulange,"(-16.0252339, 35.5083136)",-16.0252339,35.5083136,Sub-Saharan Africa,0.286
+MWI,Malawi,Mzimba,"(-11.7475452, 33.5280072)",-11.7475452,33.5280072,Sub-Saharan Africa,0.205
+MWI,Malawi,Mzuzu City,"(-11.4389649, 34.0084395)",-11.4389649,34.0084395,Sub-Saharan Africa,0.034
+MWI,Malawi,Ndanje,"(-16.7288202, 35.1708741)",-16.7288202,35.1708741,Sub-Saharan Africa,0.285
+MWI,Malawi,Neno,"(-15.6850711, 34.5749882)",-15.6850711,34.5749882,Sub-Saharan Africa,0.316
+MWI,Malawi,Nkhatabay,"(-11.6085556, 34.2949409)",-11.6085556,34.2949409,Sub-Saharan Africa,0.215
+MWI,Malawi,Nkhota Kota,"(-12.9316863, 34.2810541)",-12.9316863,34.2810541,Sub-Saharan Africa,0.245
+MWI,Malawi,Ntcheu,"(-14.9037538, 34.7740793)",-14.9037538,34.7740793,Sub-Saharan Africa,0.211
+MWI,Malawi,Ntchisi,"(-13.2841992, 33.88577470000001)",-13.2841992,33.8857747,Sub-Saharan Africa,0.259
+MWI,Malawi,Phalombe,"(-15.7092038, 35.6532848)",-15.7092038,35.6532848,Sub-Saharan Africa,0.293
+MWI,Malawi,Rumphi,"(-11.0171949, 33.8550829)",-11.0171949,33.8550829,Sub-Saharan Africa,0.205
+MWI,Malawi,Salima,"(-13.6809586, 34.4198243)",-13.6809586,34.4198243,Sub-Saharan Africa,0.334
+MWI,Malawi,Thyolo,"(-16.069257, 35.1406293)",-16.069257,35.1406293,Sub-Saharan Africa,0.259
+MWI,Malawi,Zomba City,"(-15.3765857, 35.3356518)",-15.3765857,35.3356518,Sub-Saharan Africa,0.053
+MWI,Malawi,Zomba Rural,"(-15.2807455, 35.3991867)",-15.2807455,35.3991867,Sub-Saharan Africa,0.27
+NAM,Namibia,Caprivi,"(-17.8682455, 23.5728501)",-17.8682455,23.5728501,Sub-Saharan Africa,0.174
+NAM,Namibia,Erongo,"(-22.2565682, 15.4068079)",-22.2565682,15.4068079,Sub-Saharan Africa,0.044
+NAM,Namibia,Hardap,"(-24.2310134, 17.668887)",-24.2310134,17.668887,Sub-Saharan Africa,0.103
+NAM,Namibia,Karas,"(-26.8429645, 17.2902839)",-26.8429645,17.2902839,Sub-Saharan Africa,0.098
+NAM,Namibia,Kavango,"(-18.271048, 18.4276047)",-18.271048,18.4276047,Sub-Saharan Africa,0.373
+NAM,Namibia,Khomas,"(-22.6377854, 17.1011931)",-22.6377854,17.1011931,Sub-Saharan Africa,0.06
+NAM,Namibia,Kunene,"(-19.4086317, 13.914399)",-19.4086317,13.914399,Sub-Saharan Africa,0.238
+NAM,Namibia,Ohangwena,"(-17.5979291, 16.8178377)",-17.5979291,16.8178377,Sub-Saharan Africa,0.348
+NAM,Namibia,Omaheke,"(-21.8466651, 19.1880047)",-21.8466651,19.1880047,Sub-Saharan Africa,0.232
+NAM,Namibia,Omusati,"(14.9609782, -91.80745859999999)",14.9609782,-91.8074586,Sub-Saharan Africa,0.283
+NAM,Namibia,Oshana,"(-18.4305064, 15.6881788)",-18.4305064,15.6881788,Sub-Saharan Africa,0.156
+NAM,Namibia,Oshikoto,"(-18.4152575, 16.912251)",-18.4152575,16.912251,Sub-Saharan Africa,0.218
+NAM,Namibia,Otjozondjupa,"(-20.5486916, 17.668887)",-20.5486916,17.668887,Sub-Saharan Africa,0.116
+NER,Niger,Agadez,"(16.9741689, 7.986535)",16.9741689,7.986535,Sub-Saharan Africa,0.405
+NER,Niger,Diffa,"(13.3132472, 12.6158803)",13.3132472,12.6158803,Sub-Saharan Africa,0.556
+NER,Niger,Dosso,"(13.0504833, 3.2080991)",13.0504833,3.2080991,Sub-Saharan Africa,0.62
+NER,Niger,Maradi,"(13.5009779, 7.103639599999999)",13.5009779,7.1036396,Sub-Saharan Africa,0.664
+NER,Niger,Tahoua,"(14.8904575, 5.2579968)",14.8904575,5.2579968,Sub-Saharan Africa,0.646
+NER,Niger,Tillaberi,"(18.2783598, -72.35479149999999)",18.2783598,-72.3547915,Sub-Saharan Africa,0.609
+NER,Niger,Zinder,"(13.8018124, 8.98527)",13.8018124,8.98527,Sub-Saharan Africa,0.641
+NER,Niger,Niamey,"(13.5115963, 2.1253854)",13.5115963,2.1253854,Sub-Saharan Africa,0.206
+NGA,Nigeria,Sokoto,"(13.0058731, 5.2475518)",13.0058731,5.2475518,Sub-Saharan Africa,0.548
+NGA,Nigeria,Zamfara,"(6.907529, 3.5812692)",6.907529,3.5812692,Sub-Saharan Africa,0.605
+NGA,Nigeria,Katsina,"(12.5139317, 7.6114217)",12.5139317,7.6114217,Sub-Saharan Africa,0.52
+NGA,Nigeria,Jigawa,"(12.4460001, 9.7232673)",12.4460001,9.7232673,Sub-Saharan Africa,0.552
+NGA,Nigeria,Yobe,"(12.1871412, 11.7068294)",12.1871412,11.7068294,Sub-Saharan Africa,0.635
+NGA,Nigeria,Borno,"(12.1205201, 13.1740348)",12.1205201,13.1740348,Sub-Saharan Africa,0.401
+NGA,Nigeria,Adamawa,"(9.3250497, 12.4380581)",9.3250497,12.4380581,Sub-Saharan Africa,0.295
+NGA,Nigeria,Gombe,"(10.279142, 11.1730615)",10.279142,11.1730615,Sub-Saharan Africa,0.471
+NGA,Nigeria,Bauchi,"(4.710988599999999, -74.072092)",4.7109886,-74.072092,Sub-Saharan Africa,0.583
+NGA,Nigeria,Kano,"(12.0021794, 8.591956099999999)",12.0021794,8.5919561,Sub-Saharan Africa,0.434
+NGA,Nigeria,Kaduna,"(10.5104642, 7.4165053)",10.5104642,7.4165053,Sub-Saharan Africa,0.311
+NGA,Nigeria,Kebbi,"(11.6781241, 4.0695454)",11.6781241,4.0695454,Sub-Saharan Africa,0.553
+NGA,Nigeria,Niger,"(10.2155388, 5.393955099999999)",10.2155388,5.3939551,Sub-Saharan Africa,0.324
+NGA,Nigeria,Nasarawa,"(-4.1128079, 13.7289167)",-4.1128079,13.7289167,Sub-Saharan Africa,0.251
+NGA,Nigeria,Plateau,"(9.244568, 9.367308399999999)",9.244568,9.3673084,Sub-Saharan Africa,0.273
+NGA,Nigeria,Taraba,"(8.0054917, 10.2600125)",8.0054917,10.2600125,Sub-Saharan Africa,0.448
+NGA,Nigeria,Benue,"(7.350825899999999, 8.8362755)",7.3508259,8.8362755,Sub-Saharan Africa,0.28
+NGA,Nigeria,Kogi,"(7.9075486, 6.5783387)",7.9075486,6.5783387,Sub-Saharan Africa,0.113
+NGA,Nigeria,Kwara,"(11.833333, 9.6)",11.833333,9.6,Sub-Saharan Africa,0.099
+NGA,Nigeria,Oyo,"(7.842957900000001, 3.9368439)",7.8429579,3.9368439,Sub-Saharan Africa,0.155
+NGA,Nigeria,Osun,"(7.5875843, 4.5624426)",7.5875843,4.5624426,Sub-Saharan Africa,0.043
+NGA,Nigeria,Ekiti,"(7.665581299999999, 5.3102505)",7.6655813,5.3102505,Sub-Saharan Africa,0.051
+NGA,Nigeria,Ondo,"(6.8959293, 4.893562699999999)",6.8959293,4.8935627,Sub-Saharan Africa,0.127
+NGA,Nigeria,Edo,"(6.5438101, 5.898713900000001)",6.5438101,5.8987139,Sub-Saharan Africa,0.08
+NGA,Nigeria,Anambra,"(6.2757656, 7.0068393)",6.2757656,7.0068393,Sub-Saharan Africa,0.05
+NGA,Nigeria,Enugu,"(6.4583661, 7.5463885)",6.4583661,7.5463885,Sub-Saharan Africa,0.123
+NGA,Nigeria,Ebonyi,"(6.177973, 7.959286299999999)",6.177973,7.9592863,Sub-Saharan Africa,0.265
+NGA,Nigeria,Akwa Ibom,"(4.929986899999999, 7.872159999999999)",4.9299869,7.87216,Sub-Saharan Africa,0.099
+NGA,Nigeria,Abia,"(-23.0221928, 32.7181375)",-23.0221928,32.7181375,Sub-Saharan Africa,0.088
+NGA,Nigeria,Imo,"(5.6038994, 7.0068393)",5.6038994,7.0068393,Sub-Saharan Africa,0.083
+NGA,Nigeria,Rivers,"(4.8580767, 6.920913499999999)",4.8580767,6.9209135,Sub-Saharan Africa,0.088
+NGA,Nigeria,Bayelsa,"(4.867776699999999, 5.898713900000001)",4.8677767,5.8987139,Sub-Saharan Africa,0.12
+NGA,Nigeria,Delta,"(5.5324624, 5.898713900000001)",5.5324624,5.8987139,Sub-Saharan Africa,0.107
+NGA,Nigeria,Lagos,"(6.5243793, 3.3792057)",6.5243793,3.3792057,Sub-Saharan Africa,0.035
+NGA,Nigeria,Ogun,"(12.8463561, 23.0011989)",12.8463561,23.0011989,Sub-Saharan Africa,0.112
+NIC,Nicaragua,Nueva Segovia,"(13.7894404, -86.0121573)",13.7894404,-86.0121573,Latin America and Caribbean,0.113
+NIC,Nicaragua,Jinotega,"(13.0883907, -85.9993997)",13.0883907,-85.9993997,Latin America and Caribbean,0.195
+NIC,Nicaragua,Madriz,"(28.2105741, 84.042456)",28.2105741,84.042456,Latin America and Caribbean,0.104
+NIC,Nicaragua,Esteli,"(13.0851139, -86.3630197)",13.0851139,-86.3630197,Latin America and Caribbean,0.048
+NIC,Nicaragua,Chinandega,"(12.6234721, -87.1273253)",12.6234721,-87.1273253,Latin America and Caribbean,0.047
+NIC,Nicaragua,Leon,"(28.3998551, 83.6895693)",28.3998551,83.6895693,Latin America and Caribbean,0.031
+NIC,Nicaragua,Matagalpa,"(12.9290069, -85.9151211)",12.9290069,-85.9151211,Latin America and Caribbean,0.099
+NIC,Nicaragua,Boaco,"(12.469284, -85.6614682)",12.469284,-85.6614682,Latin America and Caribbean,0.13
+NIC,Nicaragua,Managua,"(12.1149926, -86.2361744)",12.1149926,-86.2361744,Latin America and Caribbean,0.021
+NIC,Nicaragua,Masaya,"(11.9704485, -86.0886366)",11.9704485,-86.0886366,Latin America and Caribbean,0.017
+NIC,Nicaragua,Chontales,"(11.9394717, -85.1894045)",11.9394717,-85.1894045,Latin America and Caribbean,0.082
+NIC,Nicaragua,Granada,"(11.9344073, -85.9560005)",11.9344073,-85.9560005,Latin America and Caribbean,0.035
+NIC,Nicaragua,Rivas,"(11.4326663, -85.8230251)",11.4326663,-85.8230251,Latin America and Caribbean,0.036
+NIC,Nicaragua,Rio San Juan,"(8.768688599999999, -12.7853522)",8.7686886,-12.7853522,Latin America and Caribbean,0.133
+NIC,Nicaragua,RAAN,"(13.8394456, -83.93208059999999)",13.8394456,-83.9320806,Latin America and Caribbean,0.173
+NIC,Nicaragua,RAAS,"(12.1918502, -84.1012861)",12.1918502,-84.1012861,Latin America and Caribbean,0.132
+NPL,Nepal,Central Hill,"(26.8081234, 87.293039)",26.8081234,87.293039,South Asia,0.05
+NPL,Nepal,Central Mountain,"(27.719887, 85.3175239)",27.719887,85.3175239,South Asia,0.094
+NPL,Nepal,Central Terai,"(27.656871, 85.326855)",27.656871,85.326855,South Asia,0.199
+NPL,Nepal,Eastern Hill,"(45.5456095, -122.5709527)",45.5456095,-122.5709527,South Asia,0.063
+NPL,Nepal,Eastern Mountain,"(-11.7167338, 43.3680788)",-11.7167338,43.3680788,South Asia,0.133
+NPL,Nepal,Eastern Terai,"(8.3022297, 2.302446)",8.3022297,2.302446,South Asia,0.13
+NPL,Nepal,Far-Western Hill,"(30.48993329999999, -97.76776869999999)",30.4899333,-97.7677687,South Asia,0.226
+NPL,Nepal,Far-Western Mountain,"(30.005, 80.92833329999999)",30.005,80.9283333,South Asia,0.144
+NPL,Nepal,MId-Western Hill,"(6.167031499999999, 8.6600586)",6.1670315,8.6600586,South Asia,0.213
+NPL,Nepal,MId-Western Mountain,"(27.8168621, 83.63822669999999)",27.8168621,83.6382267,South Asia,0.286
+NPL,Nepal,MId-WesternTerai,"(27.7738805, 84.02917939999999)",27.7738805,84.0291794,South Asia,0.134
+NPL,Nepal,Western  Terai,"(27.7738805, 84.02917939999999)",27.7738805,84.0291794,South Asia,0.112
+NPL,Nepal,Western Mountain,"(15.4581332, 36.4039629)",15.4581332,36.4039629,South Asia,0.104
+PAK,Pakistan,Punjab,"(31.1704063, 72.7097161)",31.1704063,72.7097161,South Asia,0.184
+PAK,Pakistan,Sindh,"(25.8943018, 68.52471489999999)",25.8943018,68.5247149,South Asia,0.294
+PAK,Pakistan,Khyber Pakhtunkhwa,"(34.9526205, 72.331113)",34.9526205,72.331113,South Asia,0.247
+PAK,Pakistan,Balochistan,"(28.4907332, 65.0957792)",28.4907332,65.0957792,South Asia,0.402
+PAK,Pakistan,Gilgit Baltistan,"(35.80256670000001, 74.9831808)",35.8025667,74.9831808,South Asia,0.233
+PAK,Pakistan,Islamabad (ICT),"(33.7293882, 73.0931461)",33.7293882,73.0931461,South Asia,0.039
+PER,Peru,Amazonas,"(-8.5155608, 126.0159255)",-8.5155608,126.0159255,Latin America and Caribbean,0.096
+PER,Peru,Arequipa,"(-16.4090474, -71.53745099999999)",-16.4090474,-71.537451,Latin America and Caribbean,0.009
+PER,Peru,Ayacucho,"(-13.1638737, -74.22356409999999)",-13.1638737,-74.2235641,Latin America and Caribbean,0.071
+PER,Peru,Cajamarca,"(-7.1617465, -78.51278549999999)",-7.1617465,-78.5127855,Latin America and Caribbean,0.089
+PER,Peru,Callao,"(-12.0508491, -77.1259843)",-12.0508491,-77.1259843,Latin America and Caribbean,0
+PER,Peru,Cusco,"(-13.53195, -71.96746259999999)",-13.53195,-71.9674626,Latin America and Caribbean,0.062
+PER,Peru,Huancavelica,"(-12.7861978, -74.9764024)",-12.7861978,-74.9764024,Latin America and Caribbean,0.122
+PER,Peru,Ica,"(-14.07546, -75.7341811)",-14.07546,-75.7341811,Latin America and Caribbean,0.009
+PER,Peru,La Libertad,"(-8.143593300000001, -78.4751945)",-8.1435933,-78.4751945,Latin America and Caribbean,0.042
+PER,Peru,Lambayeque,"(-6.7197666, -79.9080757)",-6.7197666,-79.9080757,Latin America and Caribbean,0.038
+PER,Peru,Lima,"(-12.0463731, -77.042754)",-12.0463731,-77.042754,Latin America and Caribbean,0.004
+PER,Peru,Loreto,"(-4.232472899999999, -74.21793260000001)",-4.2324729,-74.2179326,Latin America and Caribbean,0.147
+PER,Peru,Madre de Dios,"(-11.7668705, -70.81199529999999)",-11.7668705,-70.8119953,Latin America and Caribbean,0.024
+PER,Peru,Moquegua,"(-0.7917729, 29.0459927)",-0.7917729,29.0459927,Latin America and Caribbean,0.014
+PER,Peru,Pasco,"(-10.4475753, -75.1545381)",-10.4475753,-75.1545381,Latin America and Caribbean,0.064
+PER,Peru,Piura,"(-5.1782884, -80.6548882)",-5.1782884,-80.6548882,Latin America and Caribbean,0.05
+PER,Peru,Puno,"(-15.8402218, -70.0218805)",-15.8402218,-70.0218805,Latin America and Caribbean,0.069
+PER,Peru,Tacna,"(-18.0065679, -70.2462741)",-18.0065679,-70.2462741,Latin America and Caribbean,0.008
+PER,Peru,Tumbes,"(-3.5564921, -80.4270885)",-3.5564921,-80.4270885,Latin America and Caribbean,0.014
+PER,Peru,Ucayali,"(-9.8251183, -73.087749)",-9.8251183,-73.087749,Latin America and Caribbean,0.046
+PHL,Philippines,National Capital Region,"(15.5942883, -90.14949879999999)",15.5942883,-90.1494988,East Asia and the Pacific,0.026
+PHL,Philippines,Cordillera Admin Region,"(17.3512542, 121.1718851)",17.3512542,121.1718851,East Asia and the Pacific,0.039
+PHL,Philippines,Ilocos Region,"(16.0832144, 120.6199895)",16.0832144,120.6199895,East Asia and the Pacific,0.027
+PHL,Philippines,Cagayan Valley,"(16.9753758, 121.8107079)",16.9753758,121.8107079,East Asia and the Pacific,0.039
+PHL,Philippines,Central Luzon,"(15.4827722, 120.7120023)",15.4827722,120.7120023,East Asia and the Pacific,0.035
+PHL,Philippines,Calabarzon,"(14.1007803, 121.0793705)",14.1007803,121.0793705,East Asia and the Pacific,0.029
+PHL,Philippines,Mimaropa,"(9.843206499999999, 118.7364783)",9.8432065,118.7364783,East Asia and the Pacific,0.091
+PHL,Philippines,Bicol Region,"(13.4209885, 123.4136736)",13.4209885,123.4136736,East Asia and the Pacific,0.068
+PHL,Philippines,Western Visayas,"(11.0049836, 122.5372741)",11.0049836,122.5372741,East Asia and the Pacific,0.055
+PHL,Philippines,Central Visayas,"(10.2968562, 123.8886774)",10.2968562,123.8886774,East Asia and the Pacific,0.055
+PHL,Philippines,Eastern Visayas,"(12.2445533, 125.0388164)",12.2445533,125.0388164,East Asia and the Pacific,0.054
+PHL,Philippines,Zamboanga Peninsula,"(-19.0552009, 29.6035495)",-19.0552009,29.6035495,East Asia and the Pacific,0.075
+PHL,Philippines,Northern Mindanao,"(8.020163499999999, 124.6856509)",8.0201635,124.6856509,East Asia and the Pacific,0.093
+PHL,Philippines,Davao Peninsula,"(6.9581401, 126.2176555)",6.9581401,126.2176555,East Asia and the Pacific,0.066
+PHL,Philippines,Soccsksargen,"(6.2706918, 124.6856509)",6.2706918,124.6856509,East Asia and the Pacific,0.09
+PHL,Philippines,CARAGA,"(8.801456199999999, 125.7406882)",8.8014562,125.7406882,East Asia and the Pacific,0.069
+PHL,Philippines,Armm,"(6.956831299999999, 124.2421597)",6.9568313,124.2421597,East Asia and the Pacific,0.14
+RWA,Rwanda,East,"(-1.940278, 29.873888)",-1.940278,29.873888,Sub-Saharan Africa,0.292
+RWA,Rwanda,Kigali City,"(-1.9705786, 30.1044288)",-1.9705786,30.1044288,Sub-Saharan Africa,0.118
+RWA,Rwanda,North,"(-1.5009963, 29.6384954)",-1.5009963,29.6384954,Sub-Saharan Africa,0.243
+RWA,Rwanda,South,"(-9.166699999999999, 34.5167)",-9.1667,34.5167,Sub-Saharan Africa,0.295
+RWA,Rwanda,West,"(-2.07649, 29.3250347)",-2.07649,29.3250347,Sub-Saharan Africa,0.266
+SDN,Sudan,Blue Nile,"(11.5860078, 34.1531947)",11.5860078,34.1531947,Arab States,0.382
+SDN,Sudan,East Darfor,"(14.3782747, 24.9042208)",14.3782747,24.9042208,Arab States,0.481
+SDN,Sudan,Gadarif,"(14.024307, 35.3685679)",14.024307,35.3685679,Arab States,0.404
+SDN,Sudan,Gezira,"(14.8859611, 33.438353)",14.8859611,33.438353,Arab States,0.165
+SDN,Sudan,Kassala,"(-3.373056, 29.918886)",-3.373056,29.918886,Arab States,0.362
+SDN,Sudan,North Darfor,"(15.7661969, 24.9042208)",15.7661969,24.9042208,Arab States,0.447
+SDN,Sudan,North Kordofan,"(13.8306441, 29.4179324)",13.8306441,29.4179324,Arab States,0.328
+SDN,Sudan,Northern,"(18.4448963, 30.1589303)",18.4448963,30.1589303,Arab States,0.047
+SDN,Sudan,Red Sea,"(19.4556063, 35.2148469)",19.4556063,35.2148469,Arab States,0.223
+SDN,Sudan,River Nile,"(23.5597924, 32.1577074)",23.5597924,32.1577074,Arab States,0.092
+SDN,Sudan,Sinnar,"(13.0317108, 33.9750018)",13.0317108,33.9750018,Arab States,0.277
+SDN,Sudan,South Darfor,"(11.6488639, 24.9042208)",11.6488639,24.9042208,Arab States,0.42
+SDN,Sudan,South Kordofan,"(11.1990192, 29.4179324)",11.1990192,29.4179324,Arab States,0.422
+SDN,Sudan,West Kordofan,"(12.6918384, 28.4341996)",12.6918384,28.4341996,Arab States,0.468
+SDN,Sudan,White Nile,"(13.2403881, 32.5372741)",13.2403881,32.5372741,Arab States,0.267
+SEN,Senegal,Center,"(14.72001, -17.465533)",14.72001,-17.465533,Sub-Saharan Africa,0.449
+SEN,Senegal,North,"(14.497401, -14.452362)",14.497401,-14.452362,Sub-Saharan Africa,0.373
+SEN,Senegal,Ouest,"(14.497401, -14.452362)",14.497401,-14.452362,Sub-Saharan Africa,0.156
+SEN,Senegal,South,"(14.497401, -14.452362)",14.497401,-14.452362,Sub-Saharan Africa,0.425
+SLE,Sierra Leone,Kailahun,"(8.280219599999999, -10.5718086)",8.2802196,-10.5718086,Sub-Saharan Africa,0.537
+SLE,Sierra Leone,Kenema,"(7.863214699999999, -11.1957172)",7.8632147,-11.1957172,Sub-Saharan Africa,0.477
+SLE,Sierra Leone,Kono,"(8.7663285, -10.8903099)",8.7663285,-10.8903099,Sub-Saharan Africa,0.511
+SLE,Sierra Leone,Bombali,"(9.2475837, -12.1632718)",9.2475837,-12.1632718,Sub-Saharan Africa,0.423
+SLE,Sierra Leone,Kambia,"(9.126166399999999, -12.9176518)",9.1261664,-12.9176518,Sub-Saharan Africa,0.58
+SLE,Sierra Leone,Koinadugu,"(9.5308619, -11.5248055)",9.5308619,-11.5248055,Sub-Saharan Africa,0.601
+SLE,Sierra Leone,Port Loko,"(5.556837000000001, 23.7632828)",5.556837,23.7632828,Sub-Saharan Africa,0.522
+SLE,Sierra Leone,Tonkolili,"(8.7389416, -11.7979613)",8.7389416,-11.7979613,Sub-Saharan Africa,0.541
+SLE,Sierra Leone,Bo,"(7.9551791, -11.7409946)",7.9551791,-11.7409946,Sub-Saharan Africa,0.449
+SLE,Sierra Leone,Bonthe,"(30.585164, 36.238414)",30.585164,36.238414,Sub-Saharan Africa,0.478
+SLE,Sierra Leone,Moyamba,"(8.1620514, -12.4351923)",8.1620514,-12.4351923,Sub-Saharan Africa,0.569
+SLE,Sierra Leone,Pujehun,"(7.372329499999999, -11.6157773)",7.3723295,-11.6157773,Sub-Saharan Africa,0.537
+SLE,Sierra Leone,Western Rural,"(8.3114983, -13.035694)",8.3114983,-13.035694,Sub-Saharan Africa,0.319
+SLE,Sierra Leone,Western Urban,"(17.4891317, -88.188656)",17.4891317,-88.188656,Sub-Saharan Africa,0.191
+SLV,El Salvador,Ahuachapan,"(13.8216148, -89.9253233)",13.8216148,-89.9253233,Latin America and Caribbean,0.03
+SLV,El Salvador,Cabanas,"(13.8648288, -88.7493998)",13.8648288,-88.7493998,Latin America and Caribbean,0.046
+SLV,El Salvador,Chalatenango,"(14.0164187, -88.91264489999999)",14.0164187,-88.9126449,Latin America and Caribbean,0.036
+SLV,El Salvador,Cuscatlan,"(13.8661957, -89.0561532)",13.8661957,-89.0561532,Latin America and Caribbean,0.025
+SLV,El Salvador,La Libertad,"(13.6817661, -89.3606298)",13.6817661,-89.3606298,Latin America and Caribbean,0.017
+SLV,El Salvador,La Paz,"(13.495364, -88.9796776)",13.495364,-88.9796776,Latin America and Caribbean,0.03
+SLV,El Salvador,La Union,"(13.3323464, -87.8500644)",13.3323464,-87.8500644,Latin America and Caribbean,0.054
+SLV,El Salvador,Morazan,"(13.7682, -88.1291387)",13.7682,-88.1291387,Latin America and Caribbean,0.04
+SLV,El Salvador,San Miguel,"(13.4792922, -88.1779182)",13.4792922,-88.1779182,Latin America and Caribbean,0.03
+SLV,El Salvador,San Salvador,"(13.6929403, -89.2181911)",13.6929403,-89.2181911,Latin America and Caribbean,0.01
+SLV,El Salvador,San Vicente,"(13.6390979, -88.7830612)",13.6390979,-88.7830612,Latin America and Caribbean,0.02
+SLV,El Salvador,Santa Ana,"(13.9778279, -89.56391190000001)",13.9778279,-89.5639119,Latin America and Caribbean,0.027
+SLV,El Salvador,Sonsonate,"(13.7113876, -89.72390970000001)",13.7113876,-89.7239097,Latin America and Caribbean,0.046
+SLV,El Salvador,Usulutan,"(13.4470634, -88.55653099999999)",13.4470634,-88.556531,Latin America and Caribbean,0.03
+SSD,South Sudan,Upper Nile,"(9.8894202, 32.7181375)",9.8894202,32.7181375,Sub-Saharan Africa,0.503
+SSD,South Sudan,Warap,"(8.2209308, 28.8596804)",8.2209308,28.8596804,Sub-Saharan Africa,0.661
+SSD,South Sudan,Northern Bahr el Ghazal,"(8.536044900000002, 26.7967849)",8.5360449,26.7967849,Sub-Saharan Africa,0.652
+SSD,South Sudan,Western Bahr el Ghazal,"(8.6452399, 25.2837585)",8.6452399,25.2837585,Sub-Saharan Africa,0.491
+SSD,South Sudan,Lakes,"(6.6030799, 29.9740534)",6.6030799,29.9740534,Sub-Saharan Africa,0.605
+SSD,South Sudan,Western Equatoria,"(5.3471799, 28.299435)",5.3471799,28.299435,Sub-Saharan Africa,0.456
+SSD,South Sudan,Central Equatoria,"(4.6144063, 31.2626366)",4.6144063,31.2626366,Sub-Saharan Africa,0.391
+SSD,South Sudan,Eastern Equatoria,"(5.0692995, 33.438353)",5.0692995,33.438353,Sub-Saharan Africa,0.561
+STP,Sao Tome and Principe,Regio Autonoma de Principe,"(31.3543445, 27.2373159)",31.3543445,27.2373159,Sub-Saharan Africa,0.092
+STP,Sao Tome and Principe,Regio Centro Este,"(11.4098737, 41.2808577)",11.4098737,41.2808577,Sub-Saharan Africa,0.059
+STP,Sao Tome and Principe,Regio Sul Este,"(13.6707177, -14.8899772)",13.6707177,-14.8899772,Sub-Saharan Africa,0.117
+SUR,Suriname,Paramaribo,"(5.8520355, -55.2038278)",5.8520355,-55.2038278,Latin America and Caribbean,0.007
+SUR,Suriname,Wanica,"(5.7323762, -55.2701235)",5.7323762,-55.2701235,Latin America and Caribbean,0.013
+SUR,Suriname,Nickerie,"(5.5855469, -56.83111169999999)",5.5855469,-56.8311117,Latin America and Caribbean,0.012
+SUR,Suriname,Coronie,"(5.6943271, -56.2929381)",5.6943271,-56.2929381,Latin America and Caribbean,0.006
+SUR,Suriname,Saramacca,"(5.7240813, -55.6689636)",5.7240813,-55.6689636,Latin America and Caribbean,0.011
+SUR,Suriname,Commewijne,"(5.740211, -54.8731219)",5.740211,-54.8731219,Latin America and Caribbean,0.008
+SUR,Suriname,Marowijne,"(5.6268128, -54.25931180000001)",5.6268128,-54.2593118,Latin America and Caribbean,0.026
+SUR,Suriname,Para,"(8.191118399999999, -9.7232673)",8.1911184,-9.7232673,Latin America and Caribbean,0.023
+SUR,Suriname,Brokopondo,"(4.752409099999999, -55.0272904)",4.7524091,-55.0272904,Latin America and Caribbean,0.057
+SUR,Suriname,Sipaliwini,"(6.546425999999999, -58.0982046)",6.546426,-58.0982046,Latin America and Caribbean,0.172
+SWZ,Swaziland,Hhohho,"(-26.1365662, 31.3541631)",-26.1365662,31.3541631,Sub-Saharan Africa,0.054
+SWZ,Swaziland,Lubombo,"(-26.7851773, 31.8107079)",-26.7851773,31.8107079,Sub-Saharan Africa,0.098
+SWZ,Swaziland,Manzini,"(-26.5081999, 31.3713164)",-26.5081999,31.3713164,Sub-Saharan Africa,0.041
+SWZ,Swaziland,Shiselweni,"(12.4166, -3.4195527)",12.4166,-3.4195527,Sub-Saharan Africa,0.101
+SYR,Syrian Arab Republic,Damascus,"(33.5138073, 36.2765279)",33.5138073,36.2765279,Arab States,0.003
+SYR,Syrian Arab Republic,Halab,"(36.2021047, 37.1342603)",36.2021047,37.1342603,Arab States,0.026
+SYR,Syrian Arab Republic,Rural Damascus,"(33.5167289, 36.954107)",33.5167289,36.954107,Arab States,0.009
+SYR,Syrian Arab Republic,Hums,"(34.2567123, 38.3165725)",34.2567123,38.3165725,Arab States,0.007
+SYR,Syrian Arab Republic,Hama,"(-3.5778471, 102.3463875)",-3.5778471,102.3463875,Arab States,0.01
+SYR,Syrian Arab Republic,Latequia,"(35.5407103, 35.7952667)",35.5407103,35.7952667,Arab States,0.004
+SYR,Syrian Arab Republic,Hasaka,"(36.507867, 40.7462671)",36.507867,40.7462671,Arab States,0.028
+SYR,Syrian Arab Republic,Dir Ezor,"(35.3296518, 40.1350341)",35.3296518,40.1350341,Arab States,0.047
+SYR,Syrian Arab Republic,Tortous,"(11.2336911, -60.69889089999999)",11.2336911,-60.6988909,Arab States,0
+SYR,Syrian Arab Republic,Raqa,"(35.9594106, 38.9981052)",35.9594106,38.9981052,Arab States,0.028
+SYR,Syrian Arab Republic,Daraa,"(32.626434, 36.1033061)",32.626434,36.1033061,Arab States,0.011
+SYR,Syrian Arab Republic,As-swidaa,"(32.7128968, 36.5662858)",32.7128968,36.5662858,Arab States,0.002
+TCD,Chad,Barh El Gazal,"(13.6680378, 16.4235227)",13.6680378,16.4235227,Sub-Saharan Africa,0.654
+TCD,Chad,Batha,"(13.9371775, 18.4276047)",13.9371775,18.4276047,Sub-Saharan Africa,0.659
+TCD,Chad,Borkou/Tibesti,"(20.78, 18.05)",20.78,18.05,Sub-Saharan Africa,0.537
+TCD,Chad,Chari Baguirmi,"(11.2564207, 16.1580937)",11.2564207,16.1580937,Sub-Saharan Africa,0.646
+TCD,Chad,Ennedi,"(17.5414578, 21.8568586)",17.5414578,21.8568586,Sub-Saharan Africa,0.625
+TCD,Chad,Hadjer-Lamis,"(12.4577273, 16.7234639)",12.4577273,16.7234639,Sub-Saharan Africa,0.654
+TCD,Chad,Kanem,"(12.90616, 105.2194808)",12.90616,105.2194808,Sub-Saharan Africa,0.696
+TCD,Chad,Lac,"(18.3281428, -77.2405153)",18.3281428,-77.2405153,Sub-Saharan Africa,0.744
+TCD,Chad,Logone Occidental,"(8.759675999999999, 15.876004)",8.759676,15.876004,Sub-Saharan Africa,0.44
+TCD,Chad,Logone Oriental,"(-29.2875557, 29.06053889999999)",-29.2875557,29.0605389,Sub-Saharan Africa,0.504
+TCD,Chad,Mandoul,"(8.603091, 17.4795173)",8.603091,17.4795173,Sub-Saharan Africa,0.529
+TCD,Chad,Mayo Kebbi Est,"(9.4046039, 14.8454619)",9.4046039,14.8454619,Sub-Saharan Africa,0.509
+TCD,Chad,Mayo Kebbi Ouest,"(10.4113014, 15.5943388)",10.4113014,15.5943388,Sub-Saharan Africa,0.479
+TCD,Chad,Moyen Chari,"(9.0639998, 18.4276047)",9.0639998,18.4276047,Sub-Saharan Africa,0.411
+TCD,Chad,Sila,"(12.13074, 21.2845025)",12.13074,21.2845025,Sub-Saharan Africa,0.697
+TCD,Chad,Tandjilð,"(8.3149949, 16.3463791)",8.3149949,16.3463791,Sub-Saharan Africa,0.487
+TCD,Chad,Wadi Fira,"(15.0892416, 21.4752851)",15.0892416,21.4752851,Sub-Saharan Africa,0.709
+TGO,Togo,Commune de Lome,"(6.1724969, 1.2313618)",6.1724969,1.2313618,Sub-Saharan Africa,0.067
+TGO,Togo,Region Maritime,"(6.4913504, 1.2891036)",6.4913504,1.2891036,Sub-Saharan Africa,0.243
+TGO,Togo,Region des Plateaux,"(7.6101378, 1.0586135)",7.6101378,1.0586135,Sub-Saharan Africa,0.325
+TGO,Togo,Region Centrale,"(8.6586029, 1.0586135)",8.6586029,1.0586135,Sub-Saharan Africa,0.236
+TGO,Togo,Region de la Kara,"(9.7216393, 1.0586135)",9.7216393,1.0586135,Sub-Saharan Africa,0.324
+TGO,Togo,Region des Savanes,"(10.5291781, 0.5257822999999999)",10.5291781,0.5257823,Sub-Saharan Africa,0.439
+TJK,Tajikistan,Dushanbe,"(38.5597722, 68.7870384)",38.5597722,68.7870384,Europe and Central Asia,0.021
+TJK,Tajikistan,Gorno-Badakhshan Autonomous Oblast,"(37.84507079999999, 73.0394697)",37.8450708,73.0394697,Europe and Central Asia,0.048
+TJK,Tajikistan,Sughd,"(39.5155326, 69.097023)",39.5155326,69.097023,Europe and Central Asia,0.033
+TJK,Tajikistan,Districts of Republican Subordination,"(39.0857902, 70.2408325)",39.0857902,70.2408325,Europe and Central Asia,0.045
+TJK,Tajikistan,Khatlon,"(37.9113562, 69.097023)",37.9113562,69.097023,Europe and Central Asia,0.086
+TLS,Timor-Leste,Aileu,"(3.427805, -76.486824)",3.427805,-76.486824,East Asia and the Pacific,0.379
+TLS,Timor-Leste,Ainaro,"(-9.0113171, 125.5220012)",-9.0113171,125.5220012,East Asia and the Pacific,0.444
+TLS,Timor-Leste,Baucau,"(-8.4731006, 126.4553727)",-8.4731006,126.4553727,East Asia and the Pacific,0.357
+TLS,Timor-Leste,Bobonaro,"(-8.9655406, 125.2587964)",-8.9655406,125.2587964,East Asia and the Pacific,0.406
+TLS,Timor-Leste,Cova Lima,"(-9.2650375, 125.2587964)",-9.2650375,125.2587964,East Asia and the Pacific,0.31
+TLS,Timor-Leste,Dili,"(-8.5568557, 125.5603143)",-8.5568557,125.5603143,East Asia and the Pacific,0.127
+TLS,Timor-Leste,Ermera,"(-8.806888299999999, 125.3466253)",-8.8068883,125.3466253,East Asia and the Pacific,0.497
+TLS,Timor-Leste,Liquica,"(-8.6674095, 125.2587964)",-8.6674095,125.2587964,East Asia and the Pacific,0.387
+TLS,Timor-Leste,Lautem,"(-8.5531846, 126.9970831)",-8.5531846,126.9970831,East Asia and the Pacific,0.373
+TLS,Timor-Leste,Manufahi,"(-9.0145495, 125.8279959)",-9.0145495,125.8279959,East Asia and the Pacific,0.353
+TLS,Timor-Leste,Oecussi,"(-9.2970576, 124.2866091)",-9.2970576,124.2866091,East Asia and the Pacific,0.508
+TLS,Timor-Leste,Viqueque,"(-8.8597918, 126.3633516)",-8.8597918,126.3633516,East Asia and the Pacific,0.41
+TTO,Trinidad and Tobago,North West,"(10.6527887, -61.4246961)",10.6527887,-61.4246961,Latin America and Caribbean,0.023
+TTO,Trinidad and Tobago,Eastern,"(11.2979348, -60.55885240000001)",11.2979348,-60.5588524,Latin America and Caribbean,0.026
+TTO,Trinidad and Tobago,North Central,"(10.6467643, -61.4227551)",10.6467643,-61.4227551,Latin America and Caribbean,0.02
+TTO,Trinidad and Tobago,South West,"(10.691803, -61.222503)",10.691803,-61.222503,Latin America and Caribbean,0.016
+TTO,Trinidad and Tobago,Tobago,"(-16.9620634, 26.419389)",-16.9620634,26.419389,Latin America and Caribbean,0.019
+TZA,"Tanzania, United Republic of",Central,"(0.3215308, 32.5862002)",0.3215308,32.5862002,Sub-Saharan Africa,0.332
+TZA,"Tanzania, United Republic of",Eastern,"(-6.369028, 34.888822)",-6.369028,34.888822,Sub-Saharan Africa,0.145
+TZA,"Tanzania, United Republic of",Lake,"(-6.2555679, 29.5107708)",-6.2555679,29.5107708,Sub-Saharan Africa,0.346
+TZA,"Tanzania, United Republic of",Northern,"(40.7566997, -73.9664629)",40.7566997,-73.9664629,Sub-Saharan Africa,0.2
+TZA,"Tanzania, United Republic of",South West Highlands,"(5.481731799999999, -55.2259207)",5.4817318,-55.2259207,Sub-Saharan Africa,0.312
+TZA,"Tanzania, United Republic of",Southern,"(-34.9478961, 138.5812844)",-34.9478961,138.5812844,Sub-Saharan Africa,0.296
+TZA,"Tanzania, United Republic of",Southern Highlands,"(7.525702799999999, -12.5039922)",7.5257028,-12.5039922,Sub-Saharan Africa,0.226
+TZA,"Tanzania, United Republic of",Western,"(28.5954114, 77.181578)",28.5954114,77.181578,Sub-Saharan Africa,0.397
+TZA,"Tanzania, United Republic of",Zanzibar,"(-6.135729500000001, 39.3621196)",-6.1357295,39.3621196,Sub-Saharan Africa,0.143
+UGA,Uganda,Kampala,"(0.3475964, 32.5825197)",0.3475964,32.5825197,Sub-Saharan Africa,0.076
+UGA,Uganda,Central 1,"(8.4545561, -13.2432632)",8.4545561,-13.2432632,Sub-Saharan Africa,0.3
+UGA,Uganda,Central 2,"(0.3729261, 32.6357573)",0.3729261,32.6357573,Sub-Saharan Africa,0.294
+UGA,Uganda,East Central,"(0.2540775, 31.99280779999999)",0.2540775,31.9928078,Sub-Saharan Africa,0.371
+UGA,Uganda,Eastern,"(1.2692186, 33.438353)",1.2692186,33.438353,Sub-Saharan Africa,0.417
+UGA,Uganda,North,"(2.8780034, 32.7181375)",2.8780034,32.7181375,Sub-Saharan Africa,0.431
+UGA,Uganda,Karamoja,"(2.8308738, 34.1531947)",2.8308738,34.1531947,Sub-Saharan Africa,0.634
+UGA,Uganda,West Nile,"(0.3157239, 32.575568)",0.3157239,32.575568,Sub-Saharan Africa,0.484
+UGA,Uganda,Western,"(0.2580521, 30.5279096)",0.2580521,30.5279096,Sub-Saharan Africa,0.346
+UGA,Uganda,Southwest,"(1.373333, 32.290275)",1.373333,32.290275,Sub-Saharan Africa,0.4
+UZB,Uzbekistan,Western,"(41.3262326, 69.3249975)",41.3262326,69.3249975,Europe and Central Asia,0.007
+UZB,Uzbekistan,Central,"(41.309631, 69.238629)",41.309631,69.238629,Europe and Central Asia,0.011
+UZB,Uzbekistan,Southern,"(38.9083604, -77.04051009999999)",38.9083604,-77.0405101,Europe and Central Asia,0.016
+UZB,Uzbekistan,Central-Eastern,"(6.237403599999999, -0.4502368)",6.2374036,-0.4502368,Europe and Central Asia,0.004
+UZB,Uzbekistan,Eastern,"(13.1078947, 14.4490398)",13.1078947,14.4490398,Europe and Central Asia,0.006
+VNM,Viet Nam,Red River Delta,"(20.9033868, 105.9699878)",20.9033868,105.9699878,East Asia and the Pacific,0.013
+VNM,Viet Nam,North Central and Central Coastal area,"(15.1738009, 108.6175626)",15.1738009,108.6175626,East Asia and the Pacific,0.024
+VNM,Viet Nam,Central Highlands,"(13.0635025, 108.2377519)",13.0635025,108.2377519,East Asia and the Pacific,0.057
+VNM,Viet Nam,South East,"(14.058324, 108.277199)",14.058324,108.277199,East Asia and the Pacific,0.017
+VNM,Viet Nam,Mekong River Delta,"(10.063363, 105.5943388)",10.063363,105.5943388,East Asia and the Pacific,0.03
+YEM,Yemen,Ibb,"(13.9720929, 44.1625338)",13.9720929,44.1625338,Arab States,0.2
+YEM,Yemen,Abyan,"(13.6343413, 46.0563212)",13.6343413,46.0563212,Arab States,0.136
+YEM,Yemen,Sanaa City,"(15.3694451, 44.1910066)",15.3694451,44.1910066,Arab States,0.057
+YEM,Yemen,Al-Baidha,"(13.9889146, 45.5771002)",13.9889146,45.5771002,Arab States,0.191
+YEM,Yemen,Taiz,"(13.5775886, 44.0177989)",13.5775886,44.0177989,Arab States,0.207
+YEM,Yemen,Al-Jawf,"(16.7901819, 45.29938620000001)",16.7901819,45.2993862,Arab States,0.214
+YEM,Yemen,Hajjah,"(15.7030403, 43.6039301)",15.7030403,43.6039301,Arab States,0.447
+YEM,Yemen,Al-Hodiedah,"(14.7909118, 42.9708838)",14.7909118,42.9708838,Arab States,0.343
+YEM,Yemen,Hadramout,"(16.9304135, 49.36531489999999)",16.9304135,49.3653149,Arab States,0.12
+YEM,Yemen,Dhamar,"(14.5455447, 44.4087348)",14.5455447,44.4087348,Arab States,0.325
+YEM,Yemen,Shabwah,"(-2.8441371, 119.2320784)",-2.8441371,119.2320784,Arab States,0.163
+YEM,Yemen,Sadah,"(16.9509413, 43.7477743)",16.9509413,43.7477743,Arab States,0.278
+YEM,Yemen,Sanaa,"(15.3694451, 44.1910066)",15.3694451,44.1910066,Arab States,0.255
+YEM,Yemen,Aden,"(12.7854969, 45.0186548)",12.7854969,45.0186548,Arab States,0.062
+YEM,Yemen,Lahj,"(13.1489588, 44.8505495)",13.1489588,44.8505495,Arab States,0.176
+YEM,Yemen,Mareb,"(15.4700312, 45.3228575)",15.4700312,45.3228575,Arab States,0.214
+YEM,Yemen,Al-Mhweit,"(15.4687838, 43.5462744)",15.4687838,43.5462744,Arab States,0.349
+YEM,Yemen,Al-Mhrah,"(16.5238423, 51.6834275)",16.5238423,51.6834275,Arab States,0.105
+YEM,Yemen,Amran,"(15.6620639, 43.9341408)",15.6620639,43.9341408,Arab States,0.322
+YEM,Yemen,Reimah,"(14.883333, 43.55)",14.883333,43.55,Arab States,0.381
+ZMB,Zambia,Central,"(-14.3112263, 28.299435)",-14.3112263,28.299435,Sub-Saharan Africa,0.292
+ZMB,Zambia,Copperbelt,"(-13.0570073, 27.5495846)",-13.0570073,27.5495846,Sub-Saharan Africa,0.158
+ZMB,Zambia,Eastern,"(-13.8056187, 31.99280779999999)",-13.8056187,31.9928078,Sub-Saharan Africa,0.369
+ZMB,Zambia,Luapula,"(-11.564831, 29.0459927)",-11.564831,29.0459927,Sub-Saharan Africa,0.392
+ZMB,Zambia,Lusaka,"(-15.3875259, 28.3228165)",-15.3875259,28.3228165,Sub-Saharan Africa,0.112
+ZMB,Zambia,Muchinga,"(-15.3780734, 28.2579161)",-15.3780734,28.2579161,Sub-Saharan Africa,0.368
+ZMB,Zambia,Northern,"(-9.7670177, 30.8958242)",-9.7670177,30.8958242,Sub-Saharan Africa,0.397
+ZMB,Zambia,North Western,"(-13.0050258, 24.9042208)",-13.0050258,24.9042208,Sub-Saharan Africa,0.334
+ZMB,Zambia,Southern,"(14.8781262, 15.4068079)",14.8781262,15.4068079,Sub-Saharan Africa,0.301
+ZMB,Zambia,Western,"(-15.9454906, 23.3823545)",-15.9454906,23.3823545,Sub-Saharan Africa,0.399
+ZWE,Zimbabwe,Bulawayo,"(-20.1325066, 28.626479)",-20.1325066,28.626479,Sub-Saharan Africa,0.014
+ZWE,Zimbabwe,Harare,"(20.3254175, 104.1001326)",20.3254175,104.1001326,Sub-Saharan Africa,0.038
+ZWE,Zimbabwe,Manicaland,"(-18.9216386, 32.174605)",-18.9216386,32.174605,Sub-Saharan Africa,0.168
+ZWE,Zimbabwe,Mashonaland Central,"(-16.7644295, 31.0793705)",-16.7644295,31.0793705,Sub-Saharan Africa,0.21
+ZWE,Zimbabwe,Mashonaland East,"(-18.5871642, 31.2626366)",-18.5871642,31.2626366,Sub-Saharan Africa,0.14
+ZWE,Zimbabwe,Mashonaland West,"(-17.4851029, 29.7889248)",-17.4851029,29.7889248,Sub-Saharan Africa,0.192
+ZWE,Zimbabwe,Masvingo,"(-20.0791909, 30.8384093)",-20.0791909,30.8384093,Sub-Saharan Africa,0.174
+ZWE,Zimbabwe,Matabeleland North,"(-18.5331566, 27.5495846)",-18.5331566,27.5495846,Sub-Saharan Africa,0.238
+ZWE,Zimbabwe,Matabeleland South,"(-21.052337, 29.0459927)",-21.052337,29.0459927,Sub-Saharan Africa,0.164
+ZWE,Zimbabwe,Midlands,"(-18.4070294, 14.8454619)",-18.4070294,14.8454619,Sub-Saharan Africa,0.176
